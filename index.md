@@ -1,3 +1,10 @@
+---
+title: ICRM
+layout: home
+nav_order: 1
+has_children: false
+---
+
 # International Committee for Radionuclide Metrology
 
 The International Committee for Radionuclide Metrology (ICRM) is an association
