@@ -1,0 +1,18 @@
+title: ICRM
+description: International Committee for Radionuclide Metrology
+theme: just-the-docs
+color_scheme: icrm
+
+url: https://icrm-org.github.io/icrm-new/
+
+aux_links:
+  Discussions: https://github.com/icrm-org/icrm-new/discussions
+
+nav_external_links:
+  - title: Discussions
+    url: https://github.com/icrm-org/icrm-new/discussions
+
+# exclude:
+#   - README.md
+#   - LICENCE
+#   - LICENCE-just-the-docs
