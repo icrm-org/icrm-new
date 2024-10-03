@@ -7,9 +7,9 @@ nav_order: 5
 # Newsletter
 
 The [ICRM
-Newsletter](http://www.lnhb.fr/conferences-publications/icrm-newsletter/) is
-published annually in electronic form by the Editor located at the address given
-here:
+Newsletter](http://www.lnhb.fr/conferences-publications/icrm-newsletter/){:
+.nav-list-link .external} is published annually in electronic form by the Editor
+located at the address given here:
 
 > **Dr. Mark Kellett**\
 > <mark.kellett@cea.fr>
