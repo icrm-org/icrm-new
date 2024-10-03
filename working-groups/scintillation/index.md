@@ -1,11 +1,11 @@
 ---
-title: Liquid Scintillation
+title: Liquid Scintillation Counting
 layout: default
 parent: Working Groups
 nav_order: 4
 ---
 
-## Liquid Scintillation Working Group
+## Liquid Scintillation Counting Working Group
 
 <http://www.lnhb.fr/home/conferences-publications/icrm_lsc_wg/>
 
