@@ -8,7 +8,7 @@ nav_order: 4
 {: .no_toc }
 
 Adopted at the General Meeting in Salamanca, Spain\
-31 May 2019
+**31 May 2019**
 
 ## Table of Contents   <!-- omit in toc -->
 {: .no_toc .text-delta }
