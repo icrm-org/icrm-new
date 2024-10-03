@@ -4,7 +4,7 @@ layout: default
 nav_order: 5
 ---
 
-## Newsletter
+# Newsletter
 
 The [ICRM
 Newsletter](http://www.lnhb.fr/conferences-publications/icrm-newsletter/) is

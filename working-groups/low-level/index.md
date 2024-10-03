@@ -5,7 +5,7 @@ parent: Working Groups
 nav_order: 5
 ---
 
-# Low Level Measurement Techniques Working Group
+# Low Level Measurement Techniques Working Group
 
 The ICRM working group for Low-Level Measurements Techniques (LLMT) examines
 techniques to enable the detection of ever smaller amounts of radioactivity.

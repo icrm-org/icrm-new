@@ -5,7 +5,7 @@ parent: Working Groups
 nav_order: 4
 ---
 
-# Liquid Scintillation Counting Working Group
+# Liquid Scintillation Counting Working Group
 
 <http://www.lnhb.fr/home/conferences-publications/icrm_lsc_wg/>
 

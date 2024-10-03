@@ -5,7 +5,7 @@ parent: Working Groups
 nav_order: 8
 ---
 
-# Radionuclide Metrology Techniques Working Group
+# Radionuclide Metrology Techniques Working Group
 
 The ICRM Radionuclide Metrology Working Group (RMT-WG) consists of experts in
 the field of radionuclide metrology. Meetings of the RMT-WG are held

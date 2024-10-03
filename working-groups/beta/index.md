@@ -5,7 +5,7 @@ parent: Working Groups
 nav_order: 2
 ---
 
-# Beta Particle Spectrometry Working Group
+# Beta Particle Spectrometry Working Group
 
 <http://www.lnhb.fr/home/conferences-publications/icrm_bs_wg/>
 
