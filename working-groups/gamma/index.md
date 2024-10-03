@@ -5,7 +5,7 @@ parent: Working Groups
 nav_order: 3
 ---
 
-# Gamma-Ray Spectrometry Working Group
+# Gamma-Ray Spectrometry Working Group
 
 Gamma-ray spectrometry is a widely used analysis technique, with applications in
 a large range of fields and expertise. The ICRM Gamma Spectrometry Working Group

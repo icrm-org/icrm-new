@@ -5,7 +5,7 @@ parent: Working Groups
 nav_order: 6
 ---
 
-# Life Sciences Working Group
+# Life Sciences Working Group
 
 The purpose of the Life Sciences Working Group is to provide a forum for ICRM
 members to address radionuclide metrology issues as they relate to the life

@@ -4,7 +4,7 @@ layout: default
 nav_order: 8
 ---
 
-# Working Groups
+# Working Groups
 {: .no_toc}
 
 ICRM activities are largely the responsibility of its working groups. Each group

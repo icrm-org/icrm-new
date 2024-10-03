@@ -5,7 +5,7 @@ parent: Working Groups
 nav_order: 1
 ---
 
-# Alpha-Particle Spectrometry Working Group
+# Alpha-Particle Spectrometry Working Group
 
 Within the last years, the development of new techniques for the fabrication of
 Si detectors and the design of new measurement chambers, has produced
