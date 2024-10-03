@@ -25,3 +25,6 @@ have been published in a [special issue of Applied Radiation and
 Isotopes](https://www.sciencedirect.com/journal/applied-radiation-and-isotopes/vol/194/suppl/C#article-36).
 
 The next Conference will be organized in 2026.
+
+
+![Iceberg](./images/iceberg.jpg)
