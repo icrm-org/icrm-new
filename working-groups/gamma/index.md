@@ -3,7 +3,6 @@ title: Gamma-Ray Spectrometry
 layout: default
 parent: Working Groups
 nav_order: 3
-has_children: false
 ---
 
 ## Gamma-Ray Spectrometry Working Group

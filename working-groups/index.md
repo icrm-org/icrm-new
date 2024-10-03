@@ -2,7 +2,6 @@
 title: Working Groups
 layout: default
 nav_order: 8
-has_children: true
 ---
 
 ## Working Groups

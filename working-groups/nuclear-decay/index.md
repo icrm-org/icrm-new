@@ -3,7 +3,6 @@ title: Nuclear Decay Data
 layout: default
 parent: Working Groups
 nav_order: 7
-has_children: false
 ---
 
 ## Nuclear Decay Data Working Group

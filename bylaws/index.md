@@ -2,7 +2,6 @@
 title: Bylaws
 layout: default
 nav_order: 4
-has_children: false
 ---
 
 ## CONSTITUTION AND BYLAWS OF THE INTERNATIONAL COMMITTEE FOR RADIONUCLIDE METROLOGY

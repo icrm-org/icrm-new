@@ -3,7 +3,6 @@ title: Liquid Scintillation
 layout: default
 parent: Working Groups
 nav_order: 4
-has_children: false
 ---
 
 ## Liquid Scintillation Working Group

@@ -3,7 +3,6 @@ title: Low Level Measurement Techniques
 layout: default
 parent: Working Groups
 nav_order: 5
-has_children: false
 ---
 
 ## Low Level Measurement Techniques Working Group

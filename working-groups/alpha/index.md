@@ -3,7 +3,6 @@ title: Alpha-Particle Spectrometry
 layout: default
 parent: Working Groups
 nav_order: 1
-has_children: false
 ---
 
 ## Alpha-Particle Spectrometry Working Group

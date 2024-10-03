@@ -3,7 +3,6 @@ title: Life Sciences
 layout: default
 parent: Working Groups
 nav_order: 6
-has_children: false
 ---
 
 ## Life Sciences Working Group

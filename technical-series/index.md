@@ -2,7 +2,6 @@
 title: Technical Series
 layout: default
 nav_order: 7
-has_children: false
 ---
 
 ## Technical Series

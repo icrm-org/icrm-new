@@ -6,11 +6,11 @@ color_scheme: icrm
 url: https://icrm-org.github.io/icrm-new/
 
 nav_external_links:
-  - title: Newsletter
-    url: http://www.lnhb.fr/conferences-publications/icrm-newsletter/
+  - title: Report an issue
+    url: https://icrm-org.github.io/icrm-new/issues
 
-# aux_links:
-#   Discussions: https://github.com/icrm-org/icrm-new/discussions
+aux_links:
+  View it on GitHub: https://github.com/icrm-org/icrm-new/
 
 # exclude:
 #   - README.md

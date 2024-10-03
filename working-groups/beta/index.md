@@ -3,7 +3,6 @@ title: Beta-Particle Spectrometry
 layout: default
 parent: Working Groups
 nav_order: 2
-has_children: false
 ---
 
 ## Beta Particle Spectrometry Working Group

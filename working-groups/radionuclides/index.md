@@ -3,7 +3,6 @@ title: Radionuclide Metrology Techniques
 layout: default
 parent: Working Groups
 nav_order: 8
-has_children: false
 ---
 
 ## Radionuclide Metrology Techniques Working Group

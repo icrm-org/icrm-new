@@ -2,7 +2,6 @@
 title: Officers
 layout: default
 nav_order: 6
-has_children: false
 ---
 
 ## Officers of the ICRM, 2021–2023
