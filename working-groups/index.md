@@ -42,11 +42,14 @@ Gif-sur-Yvette Cedex, France
 Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-3811Braunschweig,
 Germany
 
----
+### [Low-Level Measurement Techniques:](./scintillation/)
 
-- [Low-Level Measurement Techniques:](#LLMT) Daniel Zapata,
-  Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-38116
-  Braunschweig, Germany, e-mail: <daniel.zapata@ptb.de>
+**Daniel Zapata**\
+[daniel.zapata@ptb.de](mailto:daniel.zapata@ptb.de)\
+Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-38116
+Braunschweig, Germany, e-mail: <>
+
+---
 
   Begoña Quintana-Arnés, Catedrática de Física Atómica, Molecular y
   Nuclear Laboratorio de Radiaciones Ionizantes y Datación, Edificio de
