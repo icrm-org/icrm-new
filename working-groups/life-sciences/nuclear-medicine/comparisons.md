@@ -1,8 +1,8 @@
 ---
-title: Measurement Comparisons
+title: Comparisons
 layout: default
 parent: Nuclear Medicine
-nav_order: 3
+nav_order: 4
 ---
 
 # Measurement Comparisons
@@ -15,7 +15,7 @@ shed light on existing measurements challenges, document improvement of
 measurements, and/or bring assurance and confidence that measurements are being
 made correctly.
 
-The following documents descried the procedures used for comparisons, motivation
+The following documents describe the procedures used for comparisons, motivation
 for comparisons, methods for interpreting results, or describe results of
 previous comparisons and comparison program.
 

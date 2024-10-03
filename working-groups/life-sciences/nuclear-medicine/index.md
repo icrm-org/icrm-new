@@ -25,8 +25,3 @@ for the measurement of activity is the ionization chamber based radionuclide
 calibrator, in some cases referred to as a dose calibrator. Use of these
 instruments requires an understanding of their operation and what aspects of a
 measurement can have a measurable effect on the outcome of that measurement.
-
-- Measurements at [National Metrology Institutes](lswg-nm-nmi.pdf)
-- Measurements at [Research Institutions, Hospitals, and Clinics](institutions.md)
-- Documents describing [Quality Control in measurements of activity](quality-control.md)
-- Measurement [Comparisons](comparisons.md)

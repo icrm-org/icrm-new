@@ -2,7 +2,7 @@
 title: Quality Control
 layout: default
 parent: Nuclear Medicine
-nav_order: 2
+nav_order: 3
 ---
 
 # Quality Control in measurements of activity
