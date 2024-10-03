@@ -52,10 +52,10 @@ institutions are strongly encouraged to give young researchers the possibility
 to participate in such interim meetings. For details, contact the Working Group
 coordinators.
 
-The most recent ICRM — Low-Level Radioactivity Measurement Techniques
-Conference, ICRM-LLRMT 2022, was organized by the Low-Level Measurement
+The most recent ICRM *Low-Level Radioactivity Measurement Techniques
+Conference*, ICRM-LLRMT 2022, was organized by the Low-Level Measurement
 Techniques Working Group (LLRMT) and hosted by the INFN-LNGS at the Gran Sasso
-National Laboratory in Assergi (Italy), 2-6 May 2022. The Conference Proceedings
+National Laboratory in Assergi (Italy), 2–6 May 2022. The Conference Proceedings
 have been published in a [special issue of *Applied Radiation and Isotopes*](https://www.sciencedirect.com/journal/applied-radiation-and-isotopes/vol/194/suppl/C#article-36).
 The next Conference will be organized in 2026.
 
@@ -63,10 +63,10 @@ The ICRM Life Sciences Working Group (LS-WG)
 [meeting](./working-groups/life-sciences/lswg-polatom-web-announcement.pdf)
 on 8-9 April 2024 was hosted by the National Centre for Nuclear Research,
 Radioisotope Centre POLATOM in Warsaw, Poland. The Liquid Scintillation Counting
-Working group (LSC-WG) also met in Warsaw (on 11-12 April). A visit to the
+Working group (LSC-WG) also met in Warsaw (on 11–12 April). A visit to the
 POLATOM laboratories took place on 10 April between the two working group
 meetings. The latest intermediate working meeting of the ICRM Gamma Spectrometry
-Working Group was held on April 18 -19, 2024 and was hosted by the CIEMAT
+Working Group was held on April 18–19, 2024 and was hosted by the CIEMAT
 (Madrid, Spain). The preliminary
 [agenda](./working-groups/gamma/meeting-april-18-19-2024.pdf)
 is still available.
