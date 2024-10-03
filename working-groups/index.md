@@ -14,85 +14,94 @@ the following fields of interest and assigned coordinators:
 
 ### [Alpha-Particle Spectrometry](./alpha/)
 
-**S. Pommé**\
-[stefaan.pomme@ec.europa.eu](mailto:stefaan.pomme@ec.europa.eu)\
-European Commission, Joint Research Centre (EC-JRC), Institute for
-Reference Materials and Measurements (IRMM), Retieseweg 111, B-2440 Geel,
-Belgium
+- **S. Pommé**\
+  [stefaan.pomme@ec.europa.eu](mailto:stefaan.pomme@ec.europa.eu)\
+  European Commission, Joint Research Centre (EC-JRC), Institute for
+  Reference Materials and Measurements (IRMM), Retieseweg 111, B-2440 Geel,
+  Belgium
 
 ### [Beta-Particle Spectrometry](./beta)
 
-**X. Mougeot**\
-[xavier.mougeot@cea.fr](mailto:xavier.mougeot@cea.fr)\
-Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
-Gif-sur-Yvette Cedex, France
+- **X. Mougeot**\
+  [xavier.mougeot@cea.fr](mailto:xavier.mougeot@cea.fr)\
+  Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
+  Gif-sur-Yvette Cedex, France
 
 
 ### [Gamma-Ray Spectrometry](./gamma)
 
-**M.-C. Lépy**\
-[marie-christine.lepy@cea.fr](mailto:marie-christine.lepy@cea.fr)\
-Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
-Gif-sur-Yvette Cedex, France
+- **M.-C. Lépy**\
+  [marie-christine.lepy@cea.fr](mailto:marie-christine.lepy@cea.fr)\
+  Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
+  Gif-sur-Yvette Cedex, France
 
 ### [Liquid Scintillation Counting](./scintillation/)
 
-**K. Kossert**\
-[karsten.kossert@ptb.de](mailto:karsten.kossert@ptb.de)\
-Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-3811Braunschweig,
-Germany
+- **K. Kossert**\
+  [karsten.kossert@ptb.de](mailto:karsten.kossert@ptb.de)\
+  Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100,
+  D-3811Braunschweig, Germany
 
 ### [Low-Level Measurement Techniques:](./scintillation/)
 
-**Daniel Zapata**\
-[daniel.zapata@ptb.de](mailto:daniel.zapata@ptb.de)\
-Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-38116
-Braunschweig, Germany, e-mail: <>
+- **Daniel Zapata**\
+  [daniel.zapata@ptb.de](mailto:daniel.zapata@ptb.de)\
+  Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-38116
+  Braunschweig, Germany
 
----
+- **Begoña Quintana-Arnés**\
+  [quintana@usal.es](mailto:quintana@usal.es)\
+  Catedrática de Física Atómica, Molecular y Nuclear Laboratorio de Radiaciones
+  Ionizantes y Datación, Edificio de I+D+i, c) Espejo 2, 37007-Salamanca, Spain
 
-  Begoña Quintana-Arnés, Catedrática de Física Atómica, Molecular y
-  Nuclear Laboratorio de Radiaciones Ionizantes y Datación, Edificio de
-  I+D+i, c) Espejo 2, 37007-Salamanca, Spain, email: <quintana@usal.es>
+- **`Subgroup` QA near decision threshold (etc.)**\
+  **M. Korun**\
+  [matjaz.korun@ijs.si](mailto:matjaz.korun@ijs.si)\
+  Jožef Stefan Institute (JSI), Jamova cesta 39, 1000 Ljubljana, Slovenia
 
-  Subgroup QA near decision threshold (etc.): M. Korun, Jožef Stefan
-  Institute (JSI), Jamova cesta 39, 1000 Ljubljana, Slovenia,
-  email: <matjaz.korun@ijs.si>
+### [Life Sciences](./life-sciences/)
 
-- [Life Sciences](working_groups.html#LS): J. Cessna, National Institute
-  of Standards and Technology (NIST), Gaithersburg, Maryland,
-  20899-8462, U.S.A.,
-  e-mail: <jeffrey.cessna@nist.gov>
+- **J. Cessna**\
+  [jeffrey.cessna@nist.gov](mailto:jeffrey.cessna@nist.gov)\
+  National Institute of Standards and Technology (NIST), Gaithersburg, Maryland,
+  20899-8462, U.S.A.
 
-- [Nuclear Decay Data](#NNND): M. Kellett, Laboratoire National Henri
-  Becquerel (LNE-LNHB), CEA-Saclay, F-91191 Gif-sur-Yvette Cedex,
-  France,
-  e-mail: <mark.kellett@cea.fr>
+### [Nuclear Decay Data](./nuclear-decay/)
 
-- [Radionuclide Metrology Techniques](working_groups.html#RMT): R.
-  Fitzgerald, Physical Measurement Laboratory, National Institute of
-  Standards and Technology (NIST), Gaithersburg, Maryland, 20899-8462,
-  U.S.A.,
-  e-mail: <ryan.fitzgerald@nist.gov>
+- **M. Kellett**\
+  [mark.kellett@cea.fr](mailto:mark.kellett@cea.fr)\
+  Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
+  Gif-sur-Yvette Cedex, France
 
-  C. Bobin, Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay,
-  F-91191 Gif-sur-Yvette Cedex, France,
-  e-mail: <Christophe.bobin@cea.fr>
+### [Radionuclide Metrology Techniques](./radionuclides/)
 
-  Subgroup DCC: J. Keightley, National Physical Laboratory (NPL),
-  Hampton Road, Teddington, Middlesex, TW11 0LW, UK,
-  e-mail: <John.Keightley@npl.co.uk>
+- **R. Fitzgerald**\
+  [ryan.fitzgerald@nist.gov](mailto:ryan.fitzgerald@nist.gov)\
+  Physical Measurement Laboratory, National Institute of Standards and
+  Technology (NIST), Gaithersburg, Maryland, 20899-8462, U.S.A.
 
-  Subgroup Internal Gas Counting: S. Bell, National Physical Laboratory
-  (NPL), Hampton Road, Teddington, Middlesex, TW11 0LW, UK,
-  e-mail: <steven.bell@npl.co.uk>
+- **C. Bobin**\
+  [Christophe.bobin@cea.fr](mailto:Christophe.bobin@cea.fr)\
+  Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
+  Gif-sur-Yvette Cedex, France
 
-  Subgroup Large Area Sources: O. Nähle, Physikalisch-Technische
-  Bundesanstalt (PTB) Bundesallee 100, 38116 Braunschweig,
-  e-mail: <ole.j.naehle@ptb.de>
+- **`Subgroup` DCC**\
+  **J. Keightley**\
+  [John.Keightley@npl.co.uk](mailto:John.Keightley@npl.co.uk)\
+  National Physical Laboratory (NPL), Hampton Road, Teddington, Middlesex, TW11
+  0LW, UK
 
+- **`Subgroup` Internal Gas Counting**\
+  **S. Bell**\
+  [steven.bell@npl.co.uk](mailto:steven.bell@npl.co.uk)\
+  National Physical Laboratory (NPL), Hampton Road, Teddington, Middlesex, TW11
+  0LW, UK
 
-
+ - **`Subgroup` Large Area Sources**\
+   **O. Nähle**\
+   [ole.j.naehle@ptb.de](mailto:ole.j.naehle@ptb.de)\
+   Physikalisch-Technische Bundesanstalt (PTB) Bundesallee 100, 38116
+   Braunschweig, Germany
 
 ------------------------------------------------------------------------
 
