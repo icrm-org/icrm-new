@@ -1,11 +1,11 @@
 ---
-title: ICRM History
+title: History
 layout: default
 nav_order: 2
 has_children: false
 ---
 
-# ICRM History
+# History
 
 It is generally accepted that the ICRM as a formal organization grew from the
 good and efficient contacts among radionuclide metrologists from several
