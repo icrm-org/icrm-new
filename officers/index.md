@@ -11,7 +11,7 @@ nav_order: 6
 **B. Zimmerman**\
 <brian.zimmerman@nist.gov>\
 Physical Measurement Laboratory, National Institute of Standards and Technology
-(NIST), Gaithersburg, Maryland, 20899-8462, U.S.A.
+(NIST), Gaithersburg, Maryland, 20899–8462, U.S.A.
 
 ## Past President
 
@@ -48,5 +48,5 @@ Jožef Stefan Institute, Jamova 39, SI-1000 Ljubljana, Slovenia
 
 **O. Sima**\
 <octavianalexandru.sima@g.unibuc.ro>\
-University of Bucharest, Bulevardul Regina Elisabeta Nr. 4-12, București 030018,
+University of Bucharest, Bulevardul Regina Elisabeta Nr. 4–12, București 030018,
 Romania

@@ -11,7 +11,7 @@ scientific ICRM conferences, a successful instrument of communication among
 various specialists, truly encouraging international co-operation. The most
 recent in the series of ICRM meetings, the “23rd International Conference
 on Radionuclide Metrology and its Applications, ICRM 2023”, was hosted from
-27-31 March 2023 by the Horia Hulubei National Institute for Physics and Nuclear
+27–31 March 2023 by the Horia Hulubei National Institute for Physics and Nuclear
 Engineering (IFIN-HH) in Bucharest, Romania. Proceedings have been published,
 and select articles are available electronically on ScienceDirect. Additional
 papers will be published in the ICRM Technical Series (Issue 3) on Radionuclide
@@ -42,7 +42,7 @@ were published as a Special Section in Applied Radiation and Isotopes, Vol. 1
 (December 2020) and other issues of ARI; additional papers were published in the
 Proceedings in the [ICRM Technical Series on Radionuclide
 Metrology](../technical-series/icrm-technical-series-01.pdf) (Issue 2), ISSN
-2522-4328.
+2522–4328.
 
 The “21st International Conference on Radionuclide Metrology and its
 Applications, ICRM 2017”, was hosted from 15–19 May 2017 by the National Atomic
@@ -51,7 +51,7 @@ proceedings of ICRM 2017 were published as a special issue of Applied Radiat
 and Isotopes, Vol. 134 (April 2018) 1–482, and three additional papers were
 published in the Proceedings part II in the new [ICRM Technical Series
 on Radionuclide Metrology](../technical-series/icrm-technical-series-01.pdf)
-ISSN 2522-4328.
+ISSN 2522–4328.
 
 The “20th International Conference on Radionuclide Metrology and its
 Applications, ICRM 2015”, was hosted from 8 to 12 June 2015 by the Bundesamt für

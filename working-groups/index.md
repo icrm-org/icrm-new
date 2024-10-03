@@ -71,7 +71,7 @@ the following fields of interest and assigned coordinators:
 - **J. Cessna**\
   <jeffrey.cessna@nist.gov>\
   National Institute of Standards and Technology (NIST), Gaithersburg, Maryland,
-  20899-8462, U.S.A.
+  20899–8462, U.S.A.
 
 ## [Nuclear Decay Data](./nuclear-decay/)
 
@@ -85,7 +85,7 @@ the following fields of interest and assigned coordinators:
 - **R. Fitzgerald**\
   <ryan.fitzgerald@nist.gov>\
   Physical Measurement Laboratory, National Institute of Standards and
-  Technology (NIST), Gaithersburg, Maryland, 20899-8462, U.S.A.
+  Technology (NIST), Gaithersburg, Maryland, 20899–8462, U.S.A.
 
 - **C. Bobin**\
   <Christophe.bobin@cea.fr>\

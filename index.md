@@ -31,10 +31,10 @@ been published, and articles are available electronically on
 [ScienceDirect](https://doi.org/10.1016/j.apradiso.2024.111385). Additional
 papers have been published in the ICRM Technical Series ([Issue
 3](https://physics.nist.gov/ICRM/ICRM_technicalseries_3.pdf)) on Radionuclide
-Metrology, ISSN 2522-4328.
+Metrology, ISSN 2522–4328.
 
 The next (24th) ICRM conference (ICRM 2025), organized by the Laboratoire
-National Henri Becquerel (LNE-LNHB) in Paris, France, will be held 19-22 May
+National Henri Becquerel (LNE-LNHB) in Paris, France, will be held 19–22 May
 2025 in Paris. The conference will include formal oral and poster presentations,
 along with working group meetings to offer the opportunity for scientific
 discussions. The contact persons of the local organizing committee are Mark
@@ -61,7 +61,7 @@ The next Conference will be organized in 2026.
 
 The ICRM Life Sciences Working Group (LS-WG)
 [meeting](./working-groups/life-sciences/meetings/2024/lswg-announcement-2024.pdf)
-on 8-9 April 2024 was hosted by the National Centre for Nuclear Research,
+on 8–9 April 2024 was hosted by the National Centre for Nuclear Research,
 Radioisotope Centre POLATOM in Warsaw, Poland. The Liquid Scintillation Counting
 Working group (LSC-WG) also met in Warsaw (on 11–12 April). A visit to the
 POLATOM laboratories took place on 10 April between the two working group
