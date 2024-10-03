@@ -2,7 +2,7 @@
 title: ICRM
 layout: home
 nav_order: 1
-has_children: false
+has_children: true
 ---
 
 # International Committee for Radionuclide Metrology
