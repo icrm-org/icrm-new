@@ -13,7 +13,7 @@ published annually in electronic form by the Editor located at the address gi
 here:
 
 > **Dr. Mark Kellett**\
-> [mark.kellett@cea.fr](mailto:mark.kellett@cea.fr)
+> <mark.kellett@cea.fr>
 >
 > Editor, ICRM Newsletter\
 > LNE, Laboratorie National Henri Becquerel (LNE-LNHB)\

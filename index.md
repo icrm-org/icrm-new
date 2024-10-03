@@ -39,12 +39,12 @@ National Henri Becquerel (LNE-LNHB) in Paris, France, will be held 19-22 May
 2025 in Paris. The conference will include formal oral and poster presentations,
 along with working group meetings to offer the opportunity for scientific
 discussions. The contact persons of the local organizing committee are Mark
-Kellett ([mark.kellett@cea.fr](mailto: mark.kellet@cea.fr)), Marie-Christine
-Lépy ([marie-christine.lepy@cea.fr](mailto:marie-christine.lepy@cea.fr)), and
-Sylvain Leblond ([sylvain.leblond@cea.fr](mailto:sylvain.leblond@cea.fr)); more
+Kellett (<mark.kellett@cea.fr>), Marie-Christine
+Lépy (<marie-christine.lepy@cea.fr>), and
+Sylvain Leblond (<sylvain.leblond@cea.fr>); more
 details are now available on the [ICRM 2025 conference
 website](https://icrm2025.org/) and the dedicated email address for the meeting
-is [ICRM2025@cea.fr](mailto:ICRM2025@cea.fr).
+is <ICRM2025@cea.fr>.
 
 Several ICRM working groups held interim meetings, virtually or in person,
 in 2024, which offered ample opportunity to discuss technical details
