@@ -53,11 +53,11 @@ Teddington, UK
     - [<sup>67</sup>Cu](day2/ProposedProjectIRCu67.pdf)
     - [<sup>211</sup>At](day2/ProposedprojetcIRAt-211.pdf)
 
-- Discussion Topic: (Re)Starting a Radionuclide Metrology Program � What do you need for Life Sciences?
+- Discussion Topic: (Re)Starting a Radionuclide Metrology Program: What do you need for Life Sciences?
   - IAEA Experience (B. Zimmerman)
   - [NIST Perspective](day2/LSMetrology-NISTPerspective.pdf) (J.Cessna)
 
-- Discussion Topic: Comparisons of [67Ga and 201Tl](day2/67Gaand01TlKCDB.pdf) (proposed by L. Mo)
+- Discussion Topic: Comparisons of [<sup>67</sup>Ga and <sup>201</sup>Tl](day2/67Gaand01TlKCDB.pdf) (proposed by L. Mo)
 
 ### Other business
 
