@@ -3,7 +3,6 @@ title: Nuclear Medicine
 layout: default
 parent: Life Sciences
 nav_order: 1
-has_children: false
 ---
 
 # Nuclear Medicine
