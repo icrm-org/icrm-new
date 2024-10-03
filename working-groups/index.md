@@ -35,17 +35,14 @@ Gif-sur-Yvette Cedex, France
 Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
 Gif-sur-Yvette Cedex, France
 
+### [Liquid Scintillation Counting](./scintillation/)
+
+**K. Kossert**\
+[karsten.kossert@ptb.de](mailto:karsten.kossert@ptb.de)\
+Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-3811Braunschweig,
+Germany
+
 ---
-
-- [Gamma-Ray Spectrometry](#GSWG): M.-C. Lépy, Laboratoire National
-  Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191 Gif-sur-Yvette Cedex,
-  France,
-  e-mail: <marie-christine.lepy@cea.fr>
-
-- [Liquid Scintillation Counting](working_groups.html#LST): K. Kossert,
-  Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-38116
-  Braunschweig, Germany,
-  e-mail: <karsten.kossert@ptb.de>
 
 - [Low-Level Measurement Techniques:](#LLMT) Daniel Zapata,
   Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-38116
@@ -91,31 +88,6 @@ Gif-sur-Yvette Cedex, France
   Bundesanstalt (PTB) Bundesallee 100, 38116 Braunschweig,
   e-mail: <ole.j.naehle@ptb.de>
 
-
-------------------------------------------------------------------------
-
-
-
-------------------------------------------------------------------------
-
-<span id="LST"></span>
-
-<img src="images/IMG_0444_Si-31_Stilleben.jpg" data-align="right"
-data-border="1" data-hspace="4" width="500" height="365" alt="Si 31" />[Liquid
-Scintillation Working
-Group](http://www.lnhb.fr/home/conferences-publications/icrm_lsc_wg/)
-
-The purpose of the Liquid Scintillation Counting Working Group is to
-provide a forum for ICRM members to address issues related to liquid
-scintillation and Čerenkov counting. In particular, the CIEMAT/NIST
-efficiency tracing and the Triple-to-Double-Coincidence Ratio (TDCR)
-methods play major roles in Radionuclide Metrology. In the past two
-decades, many new developments were presented by ICRM researchers, e.g.,
-new counter systems, new electronics for signal treatment and data
-acquisitions, investigations of existing models and extensions of
-calculation procedures. These methods are used for activity
-standardization of a growing number of radionuclides as well as for
-determination and validation of radionuclide decay data.
 
 
 
