@@ -17,4 +17,4 @@ realized for an even larger audience.
 
 - [Technical Series Issue 1 (2018)](./icrm-technical-series-01.pdf)
 - [Technical Series Issue 2 (2020)](./icrm-technical-series-02.pdf)
-- [Technical Series Issue 3 (2020)](./icrm-technical-series-03.pdf)
+- [Technical Series Issue 3 (2023)](./icrm-technical-series-03.pdf)
