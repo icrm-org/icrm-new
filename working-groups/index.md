@@ -27,6 +27,16 @@ Belgium
 Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
 Gif-sur-Yvette Cedex, France
 
+
+### [Gamma-Ray Spectrometry](./gamma)
+
+**M.-C. Lépy**\
+[marie-christine.lepy@cea.fr](mailto:marie-christine.lepy@cea.fr)\
+Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
+Gif-sur-Yvette Cedex, France
+
+---
+
 - [Gamma-Ray Spectrometry](#GSWG): M.-C. Lépy, Laboratoire National
   Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191 Gif-sur-Yvette Cedex,
   France,
@@ -81,61 +91,10 @@ Gif-sur-Yvette Cedex, France
   Bundesanstalt (PTB) Bundesallee 100, 38116 Braunschweig,
   e-mail: <ole.j.naehle@ptb.de>
 
-------------------------------------------------------------------------
-
-
 
 ------------------------------------------------------------------------
 
-<span id="bps"></span>[Beta Particle Spectrometry Working
-Group](http://www.lnhb.fr/home/conferences-publications/icrm_bs_wg/)
 
-This Working Group is devoted to the development of the metrological
-aspects of beta-particle spectrometry and its applications. This
-includes, but is not restricted to:
-
-- Theory
-  - Beta (β±) and electron capture (ε) transitions
-  - Theoretical shape factors and influence of the nuclear current
-  - Atomic effects
-- Experiments
-  - Instrumentations used for beta spectrometry
-  - Techniques that need beta information
-  - Confidence on experimental shape factors
-  - Data analysis and unfolding methods
-- Simulations
-  - Confidence on the physical processes: low energies, radioactive
-    decays, atomic rearrangements
-  - Comparison of the results of different codes: Geant4, Penelope, etc.
-- Evaluations and dissemination
-  - Confidence and uncertainties on experimental shape factors
-  - Evaluation procedure for establishing recommended experimental shape
-    factors
-  - Mean energies, log *ft* values, database
-
-Other suggested topics are welcome.
-
-------------------------------------------------------------------------
-
-<span id="GSWG"></span> [Gamma-Ray Spectrometry Working
-Group](http://www.lnhb.fr/home/conferences-publications/icrm_gs_wg/)
-
-Gamma-ray spectrometry is a widely used analysis technique, with
-applications in a large range of fields and expertise. The ICRM Gamma
-Spectrometry Working Group (GSWG) is devoted to the development of the
-metrological aspects of gamma-ray spectrometry and its applications.
-
-This includes, but is not restricted to:
-
-- Characterization of measurement techniques and instrumentation,
-- Determination of photon emission intensities,
-- Determination and assessment of corrective factors and uncertainties,
-- Determination of activity of gamma-emitting radionuclides for
-  industrial, or safety applications, etc.
-
-The GSWG promotes collaboration between the WG members to improve the
-analytical techniques and distributes practical information in order to
-disseminate the knowledge and know-how to various laboratories.
 
 ------------------------------------------------------------------------
 
