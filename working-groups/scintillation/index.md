@@ -20,3 +20,5 @@ signal treatment and data acquisitions, investigations of existing models and
 extensions of calculation procedures. These methods are used for activity
 standardization of a growing number of radionuclides as well as for
 determination and validation of radionuclide decay data.
+
+![Si-31](./images/si-31.jpg)
