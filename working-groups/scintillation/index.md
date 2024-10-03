@@ -7,7 +7,7 @@ nav_order: 4
 
 # Liquid Scintillation Counting Working Group
 
-<http://www.lnhb.fr/home/conferences-publications/icrm_lsc_wg/>
+[Home at LNHB](http://www.lnhb.fr/home/conferences-publications/icrm_lsc_wg/){: .btn .btn-green}
 
 The purpose of the Liquid Scintillation Counting Working Group is to provide a
 forum for ICRM members to address issues related to liquid scintillation and

@@ -7,7 +7,7 @@ nav_order: 7
 
 # Nuclear Decay Data Working Group
 
-<http://www.lnhb.fr/home/conferences-publications/icrm_ndd_wg/>
+[Home at LNHB](http://www.lnhb.fr/home/conferences-publications/icrm_ndd_wg/){: .btn .btn-green}
 
 The Nuclear Decay Data Working Group (3NDWG) facilitates awareness and
 communications between ICRM members interested in the measurement, calculation,

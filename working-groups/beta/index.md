@@ -7,7 +7,7 @@ nav_order: 2
 
 # Beta Particle Spectrometry Working Group
 
-<http://www.lnhb.fr/home/conferences-publications/icrm_bs_wg/>
+[Home at LNHB](http://www.lnhb.fr/home/conferences-publications/icrm_bs_wg/){: .btn .btn-green}
 
 This Working Group is devoted to the development of the metrological aspects of
 beta-particle spectrometry and its applications. This includes, but is not
