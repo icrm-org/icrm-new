@@ -2,6 +2,7 @@
 title: Working Groups
 layout: default
 nav_order: 8
+has_toc: false
 ---
 
 # Working Groups
