@@ -9,21 +9,8 @@ nav_order: 4
 Adopted at the General Meeting in Salamanca, Spain\
 31 May 2019
 
-### Table of content <!-- omit in toc -->
-
-- [1. Name and Membership](#1-name-and-membership)
-- [2. Objectives](#2-objectives)
-- [3. Membership and Rights and Obligations of Members](#3-membership-and-rights-and-obligations-ofmembers)
-- [4. Organisation of ICRM](#4-organisation-oficrm)
-- [5. Organisational Membership](#5-organisational-membership)
-- [6. Election of Associate Members](#6-election-ofassociate-members)
-- [7. General Meetings](#7-general-meetings)
-- [8. Executive Board: Duties, Terms of Office, Nomination and Election](#8-executive-board-duties-terms-ofoffice-nomination-and-election)
-- [9. Nominating Committee: Duties, Terms of Office, and Election](#9-nominating-committee-duties-terms-ofoffice-and-election)
-- [10. Working Groups and Committees of ICRM](#10-working-groups-and-committees-oficrm)
-- [11. Election of ICRM Officers](#11-election-oficrm-officers)
-- [12. Amendments](#12-amendments)
-
+1. TOC
+{:toc}
 
 ### 1. Name and Membership
 
@@ -341,19 +328,24 @@ prior to the date which has been announced for the meeting. Amendment of the
 Notes may be proposed at a General Meeting without prior notice and adopted by
 majority vote.
 
-### Notes  <!-- omit in toc -->
+### Notes
+{: .no_toc }
 
+{: .note }
 1. Under normal circumstances and by consensus, English is the preferred
    language for the conduct of the business and other activities of ICRM.
 
+{: .note }
 2. Except where specified elsewhere in these bylaws majority voting at meetings
    of ICRM will normally be by a show of hands, unless a secret ballot
    is requested by one quarter of the delegate members present. Persons to count
    the votes shall be appointed by the presiding officer if needed.
 
+{: .note }
 3. “Letter” in these bylaws shall mean a written message communicated by mail
    (physical or electronic).
 
+{: .note }
 4. A secret mailed ballot shall be carried out as follows: The Chairman of the
    Nominating Committee shall prepare ballot forms listing each office for which
    an election is required, and the name, organisation and country of each
@@ -371,6 +363,7 @@ majority vote.
    Secretary to the members of ICRM within two weeks. In the event of a tied
    vote, only delegates on the Executive Board shall be entitled to vote.
 
+{: .note }
 5. The ICRM Newsletter specified in clause 8.15 of these bylaws shall
 contain:
 
