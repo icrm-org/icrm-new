@@ -1,7 +1,8 @@
 ---
-title: LSWG Meeting 2008
+title: 2008
 layout: default
-nav_exclude: true
+parent: Meetings
+nav_order: 2
 ---
 
 # LSWG Meeting November 12–13, 2008
