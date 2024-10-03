@@ -5,7 +5,7 @@ parent: Working Groups
 nav_order: 5
 ---
 
-## Low Level Measurement Techniques Working Group
+# Low Level Measurement Techniques Working Group
 
 The ICRM working group for Low-Level Measurements Techniques (LLMT) examines
 techniques to enable the detection of ever smaller amounts of radioactivity.
@@ -24,6 +24,5 @@ have been published in a [special issue of Applied Radiation and
 Isotopes](https://www.sciencedirect.com/journal/applied-radiation-and-isotopes/vol/194/suppl/C#article-36).
 
 The next Conference will be organized in 2026.
-
 
 ![Iceberg](./images/iceberg.jpg)

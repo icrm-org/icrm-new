@@ -5,7 +5,7 @@ parent: Working Groups
 nav_order: 7
 ---
 
-## Nuclear Decay Data Working Group
+# Nuclear Decay Data Working Group
 
 <http://www.lnhb.fr/home/conferences-publications/icrm_ndd_wg/>
 

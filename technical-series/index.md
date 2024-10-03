@@ -4,7 +4,7 @@ layout: default
 nav_order: 7
 ---
 
-## Technical Series
+# Technical Series
 
 After many years of publishing the full proceedings in Special Issues of the
 journal *Applied Radiation and Isotopes*, active participation in the ICRM
