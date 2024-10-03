@@ -12,7 +12,8 @@ Newsletter](http://www.lnhb.fr/conferences-publications/icrm-newsletter/) is
 published annually in electronic form by the Editor located at the address given
 here:
 
-> **Dr. Mark Kellett**
+> **Dr. Mark Kellett**\
+> [mark.kellett@cea.fr](mailto:mark.kellett@cea.fr)
 >
 > Editor, ICRM Newsletter\
 > LNE, Laboratorie National Henri Becquerel (LNE-LNHB)\
@@ -20,7 +21,6 @@ here:
 > 91191 Gif-sur-Yvette Cedex\
 > France
 >
-> [mark.kellett@cea.fr](mailto:mark.kellett@cea.fr)
 
 For economy reasons, the Newsletter is provided online. All laboratories engaged
 in radionuclide metrology are invited to contribute to the next issue. The
