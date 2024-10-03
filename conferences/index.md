@@ -5,7 +5,7 @@ nav_order: 2
 has_children: false
 ---
 
-# Conferences
+## Conferences
 
 Plenary meetings of the ICRM are held biennially and have developed into
 scientific ICRM conferences, a successful instrument of communication among

@@ -5,7 +5,7 @@ nav_order: 5
 has_children: false
 ---
 
-# Newsletter
+## Newsletter
 
 The [ICRM
 Newsletter](http://www.lnhb.fr/conferences-publications/icrm-newsletter/) is

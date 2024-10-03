@@ -5,13 +5,12 @@ nav_order: 4
 has_children: false
 ---
 
-# CONSTITUTION AND BYLAWS OF THE INTERNATIONAL COMMITTEE FOR RADIONUCLIDE METROLOGY
+## CONSTITUTION AND BYLAWS OF THE INTERNATIONAL COMMITTEE FOR RADIONUCLIDE METROLOGY
 
-**Adopted at the General Meeting in Salamanca, Spain**
+Adopted at the General Meeting in Salamanca, Spain\
+31 May 2019
 
-**31 May 2019**
-
-## Table of content <!-- omit in toc -->
+### Table of content <!-- omit in toc -->
 
 - [1. Name and Membership](#1-name-and-membership)
 - [2. Objectives](#2-objectives)
@@ -27,7 +26,7 @@ has_children: false
 - [12. Amendments](#12-amendments)
 
 
-## 1. Name and Membership
+### 1. Name and Membership
 
 `1.1` — The name of the organisation is “International Committee for
 Radionuclide Metrology”, hereinafter referred to as “ICRM” (See Note 1).
@@ -37,14 +36,14 @@ laboratories whose membership comprises appointed delegates of such laboratorie
 together with other scientists engaged in the study and applications of
 radioactivity.
 
-## 2. Objectives
+### 2. Objectives
 
 `2.1` — The objectives of ICRM shall be to promote, through the active
 participation of all its members, the advancement of radionuclide metrology in
 the world-wide applications of radioactivity and to disseminate information
 relating to, for example, new metrological methods or recent nuclear data.
 
-## 3. Membership and Rights and Obligations of Members
+### 3. Membership and Rights and Obligations of Members
 
 `3.1` — ICRM shall comprise two types of membership: these shall be designated
 “delegate member” or “delegate” and “associate member” or “associate”. In this
@@ -85,7 +84,7 @@ to the objectives of ICRM (See Note 5).
 `3.9` — Every member (delegate and associate) should provide and disseminate all
 information related to ICRM activities in his or her organisation or country.
 
-## 4. Organisation of ICRM
+### 4. Organisation of ICRM
 
 `4.1` — The delegates in a General Meeting [Section 7] constitute the supreme
 authority of ICRM. But amendments to these bylaws are subject to the provisions
@@ -111,7 +110,7 @@ a single “organisational” vote.
 shall it be responsible for any consequence arising from its activities or those
 of its members.
 
-## 5. Organisational Membership
+### 5. Organisational Membership
 
 `5.1` — Notwithstanding any informal approach that may have been made, the
 procedure for an organisation to join ICRM shall be according to the following
@@ -139,7 +138,7 @@ basis, the person appointed to serve in this capacity. The time at which the
 change in representation shall come into effect and the period for which it
 shall be effective shall be specified in the letter (See Note 6).
 
-## 6. Election of Associate Members
+### 6. Election of Associate Members
 
 `6.1` — Any member of ICRM may suggest by letter to the President or Secretary
 the election to associate membership of any person by reason of his or her past
@@ -159,7 +158,7 @@ to confirm his or her wish to continue as an associate member; in the abse
 within one year of any positive response to this request, the membership shall
 be deemed to have lapsed.
 
-## 7. General Meetings
+### 7. General Meetings
 
 `7.1` — The Executive Board shall endeavour to convene a General Meeting of the
 members of ICRM at least once in every two years. The time and place of the
@@ -181,7 +180,7 @@ choose its location and date.
 shall be twelve delegates or thirty per cent of the delegate membership,
 whichever is larger.
 
-## 8. Executive Board: Duties, Terms of Office, Nomination and Election
+### 8. Executive Board: Duties, Terms of Office, Nomination and Election
 
 `8.1` — The Executive Board consists (Article 4.3) of a President, the immediate
 Past President, three Vice-Presidents, and a Secretary.
@@ -242,7 +241,7 @@ the result of every election.
 update a biennial ICRM Newsletter which shall be made available to all members
 electronically.
 
-## 9. Nominating Committee: Duties, Terms of Office, and Election
+### 9. Nominating Committee: Duties, Terms of Office, and Election
 
 `9.1` — The aim of the Nominating Committee shall be to ensure the continuity of
 purpose and vigour of ICRM by soliciting from the membership, and by itself
@@ -275,7 +274,7 @@ weeks prior to the election.
 `9.5` — Each member of the Nominating Committee shall hold office for a term of
 four years. Members shall be eligible for immediate re-election only once.
 
-## 10. Working Groups and Committees of ICRM
+### 10. Working Groups and Committees of ICRM
 
 `10.1` — There shall be working groups or other committees established by
 majority vote of the delegate members at a General Meeting.
@@ -301,7 +300,7 @@ working group.
 Coordinator, the Executive Board shall appoint an interim replacement in
 accordance with Article 11.5.
 
-## 11. Election of ICRM Officers
+### 11. Election of ICRM Officers
 
 `11.1` — Any member of ICRM may nominate a candidate to fill any vacant ICRM
 office after having first obtained his or her agreement in writing. All such
@@ -333,7 +332,7 @@ General Meeting or at a meeting of the Executive Board, the term in office 
 commence at the conclusion of that meeting. In all other cases the term shall
 begin on the day following the election.
 
-## 12. Amendments
+### 12. Amendments
 
 This ICRM constitution and these bylaws, apart from the Notes, may be amended,
 repealed or altered, in whole or in part, by a two-thirds majority vote of the
@@ -343,7 +342,7 @@ prior to the date which has been announced for the meeting. Amendment of the
 Notes may be proposed at a General Meeting without prior notice and adopted by
 majority vote.
 
-## Notes  <!-- omit in toc -->
+### Notes  <!-- omit in toc -->
 
 1. Under normal circumstances and by consensus, English is the preferred
    language for the conduct of the business and other activities of ICRM.
