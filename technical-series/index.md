@@ -5,6 +5,8 @@ nav_order: 7
 has_children: false
 ---
 
+# Technical Series
+
 After many years of publishing the full proceedings in Special Issues of the
 journal *Applied Radiation and Isotopes*, active participation in the ICRM
 conferences had increased to the point that, in 2016 (before the 2017
