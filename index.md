@@ -52,7 +52,7 @@ institutions are strongly encouraged to give young researchers the possibility
 to participate in such interim meetings. For details, contact the Working Group
 coordinators.
 
-The most recent ICRM - Low-Level Radioactivity Measurement Techniques
+The most recent ICRM — Low-Level Radioactivity Measurement Techniques
 Conference, ICRM-LLRMT 2022, was organized by the Low-Level Measurement
 Techniques Working Group (LLRMT) and hosted by the INFN-LNGS at the Gran Sasso
 National Laboratory in Assergi (Italy), 2-6 May 2022. The Conference Proceedings

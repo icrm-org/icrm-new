@@ -21,4 +21,11 @@ publications, electronic communications (i.e., email), and collaborative work.
 The Coordinator will maintain communication links between the members and will
 periodically report to the group new issues and advancements in the field.
 
-![Ampoule and syringes with radiopharmaceutical](./images/ampoules-syringes.jpg)
+## Coordinator Annual Reports
+
+- [Annual report 2023](./reports/lswg-coordinator-report-2023.pdf)
+
+## Meetings
+
+- [LSWG Meeting 2024](./meetings/2024/lswg-announcement-2024.pdf)
+- [LSWG Meeting 2008](./meetings/2008/)
