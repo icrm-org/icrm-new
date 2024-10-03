@@ -7,4 +7,4 @@ nav_order: 2
 
 # Coordinator Annual Reports
 
-- [Annual report 2023](./reports/lswg-coordinator-report-2023.pdf)
+- [Annual report 2023](./lswg-coordinator-report-2023.pdf)

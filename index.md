@@ -60,7 +60,7 @@ have been published in a [special issue of *Applied Radiation and Isotopes*](h
 The next Conference will be organized in 2026.
 
 The ICRM Life Sciences Working Group (LS-WG)
-[meeting](./working-groups/life-sciences/lswg-polatom-web-announcement.pdf)
+[meeting](./working-groups/life-sciences/meetings/2024/lswg-announcement-2024.pdf)
 on 8-9 April 2024 was hosted by the National Centre for Nuclear Research,
 Radioisotope Centre POLATOM in Warsaw, Poland. The Liquid Scintillation Counting
 Working group (LSC-WG) also met in Warsaw (on 11–12 April). A visit to the

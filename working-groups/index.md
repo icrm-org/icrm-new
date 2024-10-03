@@ -49,7 +49,7 @@ the following fields of interest and assigned coordinators:
   Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100,
   D-3811Braunschweig, Germany
 
-## [Low-Level Measurement Techniques:](./low-leve/)
+## [Low-Level Measurement Techniques:](./low-level/)
 
 - **Daniel Zapata**\
   <daniel.zapata@ptb.de>\
