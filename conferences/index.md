@@ -42,7 +42,7 @@ of Salamanca in Salamanca, Spain. The major part of the proceedings of ICRM 
 were published as a Special Section in Applied Radiation and Isotopes, Vol. 166
 (December 2020) and other issues of ARI; additional papers were published in the
 Proceedings in the [ICRM Technical Series on Radionuclide
-Metrology](./technical-series/icrm-technical-series-01.pdf) (Issue 2), ISSN
+Metrology](../technical-series/icrm-technical-series-01.pdf) (Issue 2), ISSN
 2522-4328.
 
 The “21st International Conference on Radionuclide Metrology and its
@@ -51,8 +51,8 @@ Energy Commission (CNEA) in Buenos Aires, Argentina. The major part of the
 proceedings of ICRM 2017 were published as a special issue of Applied Radiation
 and Isotopes, Vol. 134 (April 2018) 1–482, and three additional papers were
 published in the Proceedings part II in the new [ICRM Technical Series
-on Radionuclide Metrology](./technical-series/icrm-technical-series-01.pdf) ISSN
-2522-4328.
+on Radionuclide Metrology](../technical-series/icrm-technical-series-01.pdf)
+ISSN 2522-4328.
 
 The “20th International Conference on Radionuclide Metrology and its
 Applications, ICRM 2015”, was hosted from 8 to 12 June 2015 by the Bundesamt für

@@ -13,7 +13,7 @@ countries who participated in the First International Summer School on
 Radionuclide Metrology in Hercig Novi, Yugoslavia from 21 August to 1 September,
 1972\. The excellent proceedings of that first meeting were published as a
 Special Issue of *Nuclear Instruments and Methods* (NIM **112**(1–2) 1973). The
-[Bylaws](/bylaws/index.md) were adopted at the General Meeting in
+[Bylaws](../bylaws/) were adopted at the General Meeting in
 Gaithersburg, Maryland (USA) in May 1997.
 
 This was not the first meeting of radionuclide metrologists. Because of the

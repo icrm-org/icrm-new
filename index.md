@@ -69,7 +69,7 @@ POLATOM laboratories took place on 10 April between the two working group
 meetings. The latest intermediate working meeting of the ICRM Gamma Spectrometry
 Working Group was held on April 18 -19, 2024 and was hosted by the CIEMAT
 (Madrid, Spain). The preliminary
-[agenda](./working-groups/gamma-ray-spectrometry/gswg-meeting-april-18-19-2024.pdf)
+[agenda](./working-groups/gamma/meeting-april-18-19-2024.pdf)
 is still available.
 
 The ICRM Radionuclide Metrology Techniques (RMT) Working Group will host its
