@@ -30,10 +30,11 @@ low-level measurement techniques, radionuclide metrology in life sciences,
 source preparation techniques, and quality assurance and uncertainty evaluation
 in radioactivity measurements, together with working group meetings that will
 offer a less formal opportunity for scientific discussions. The contact persons
-of the local organizing committee Mark Kellet (<mark.kellett@cea.fr>),
-Marie-Christine Lépy (<marie-christine.lepy@cea.fr>), and Sylvain Leblond
-(<sylvain.leblond@cea.fr>). More details will be available on the ICRM 2025
-conference website later in 2024.
+of the local organizing committee Mark Kellet
+([mark.kellett@cea.fr](mailto:mark.kellett@cea.fr)), Marie-Christine Lépy
+([marie-christine.lepy@cea.fr](mailto:marie-christine.lepy@cea.fr)), and Sylvain
+Leblond ([sylvain.leblond@cea.fr](mailto:sylvain.leblond@cea.fr)). More details
+will be available on the ICRM 2025 conference website later in 2024.
 
 The “22nd International Conference on Radionuclide Metrology and its
 Applications, ICRM 2019”, was hosted from 27–31 May 2019 by the University
@@ -64,7 +65,7 @@ Applications, ICRM 2013”, was hosted by the JRC-IRMM (European
 Commission, Joint Research Centre, Institute for Reference Materials and
 Measurements) from 17 to 21 June 2013 in Antwerp, Belgium. The proceedings
 of ICRM 2013 were published in Applied Radiation and Isotopes, Vol. 87 (May
-2014) 1–488.
+1\) 1–488.
 
 The “18th International Conference on Radionuclide Metrology and its
 Applications, ICRM 2011”, was hosted by the NMIJ/AIST (National Metrology

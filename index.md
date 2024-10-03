@@ -39,11 +39,12 @@ National Henri Becquerel (LNE-LNHB) in Paris, France, will be held 19-22 May
 2025 in Paris. The conference will include formal oral and poster presentations,
 along with working group meetings to offer the opportunity for scientific
 discussions. The contact persons of the local organizing committee are Mark
-Kellett ([mark.kellett@cea.fr](mailto: mark.kellet@cea.fr)), Marie-Christine Lépy
-(<marie-christine.lepy@cea.fr>), and Sylvain Leblond (<sylvain.leblond@cea.fr>);
-more details are now available on the ICRM 2025 conference website
-(<https://icrm2025.org/>) and the dedicated email address for the meeting is
-<ICRM2025@cea.fr>.
+Kellett ([mark.kellett@cea.fr](mailto: mark.kellet@cea.fr)), Marie-Christine
+Lépy ([marie-christine.lepy@cea.fr](mailto:marie-christine.lepy@cea.fr)), and
+Sylvain Leblond ([sylvain.leblond@cea.fr](mailto:sylvain.leblond@cea.fr)); more
+details are now available on the [ICRM 2025 conference
+website](https://icrm2025.org/) and the dedicated email address for the meeting
+is [ICRM2025@cea.fr](mailto:ICRM2025@cea.fr).
 
 Several ICRM working groups held interim meetings, virtually or in person,
 in 2024, which offered ample opportunity to discuss technical details
@@ -56,8 +57,7 @@ The most recent ICRM - Low-Level Radioactivity Measurement Techniques
 Conference, ICRM-LLRMT 2022, was organized by the Low-Level Measurement
 Techniques Working Group (LLRMT) and hosted by the INFN-LNGS at the Gran Sasso
 National Laboratory in Assergi (Italy), 2-6 May 2022. The Conference Proceedings
-have been published in a special issue of *Applied Radiation and Isotopes*
-(<https://www.sciencedirect.com/journal/applied-radiation-and-isotopes/vol/194/suppl/C#article-36>).
+have been published in a [special issue of *Applied Radiation and Isotopes*](https://www.sciencedirect.com/journal/applied-radiation-and-isotopes/vol/194/suppl/C#article-36).
 The next Conference will be organized in 2026.
 
 The ICRM Life Sciences Working Group (LS-WG)

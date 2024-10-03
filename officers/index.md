@@ -25,7 +25,7 @@ Madrid, Spain
 ### Vice-Presidents
 
 - **R. Galea**\
-[Raphael.Galea@nrc-cnrc.gc.ca](Raphael.Galea@nrc-cnrc.gc.ca)\
+[Raphael.Galea@nrc-cnrc.gc.ca](mailto:Raphael.Galea@nrc-cnrc.gc.ca)\
 National Research Council of Canada (NRC - CNRC), Montreal Road, Ottawa, K1A
 0R6, Canada
 
