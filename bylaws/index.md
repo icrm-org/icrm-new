@@ -4,12 +4,16 @@ layout: default
 nav_order: 4
 ---
 
-## CONSTITUTION AND BYLAWS OF THE INTERNATIONAL COMMITTEE FOR RADIONUCLIDE METROLOGY
+## CONSTITUTION AND BYLAWS OF THE INTERNATIONAL COMMITTEE FOR RADIONUCLIDE METROLOGY   <!-- omit in toc -->
+{: .no_toc }
 
 Adopted at the General Meeting in Salamanca, Spain\
 31 May 2019
 
-1. TOC
+### Table of Contents   <!-- omit in toc -->
+{: .no_toc .text-delta }
+
+- TOC
 {:toc}
 
 ### 1. Name and Membership
@@ -328,24 +332,20 @@ prior to the date which has been announced for the meeting. Amendment of the
 Notes may be proposed at a General Meeting without prior notice and adopted by
 majority vote.
 
-### Notes
+### Notes  <!-- omit in toc -->
 {: .no_toc }
 
-{: .note }
 1. Under normal circumstances and by consensus, English is the preferred
    language for the conduct of the business and other activities of ICRM.
 
-{: .note }
 2. Except where specified elsewhere in these bylaws majority voting at meetings
    of ICRM will normally be by a show of hands, unless a secret ballot
    is requested by one quarter of the delegate members present. Persons to count
    the votes shall be appointed by the presiding officer if needed.
 
-{: .note }
 3. “Letter” in these bylaws shall mean a written message communicated by mail
    (physical or electronic).
 
-{: .note }
 4. A secret mailed ballot shall be carried out as follows: The Chairman of the
    Nominating Committee shall prepare ballot forms listing each office for which
    an election is required, and the name, organisation and country of each
@@ -363,9 +363,7 @@ majority vote.
    Secretary to the members of ICRM within two weeks. In the event of a tied
    vote, only delegates on the Executive Board shall be entitled to vote.
 
-{: .note }
-5. The ICRM Newsletter specified in clause 8.15 of these bylaws shall
-contain:
+5. The ICRM Newsletter specified in clause 8.15 of these bylaws shall contain:
 
    (a) the reports from members required under clauses 3.7 and 3.8 of the
    bylaws;

@@ -12,6 +12,12 @@ nav_external_links:
 aux_links:
   View ICRM on GitHub: https://github.com/icrm-org/icrm-new/
 
+callouts:
+  note:
+    title: Note
+    color: green
+
+
 # exclude:
 #   - README.md
 #   - LICENCE
