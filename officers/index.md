@@ -27,7 +27,7 @@ Madrid, Spain
 **R. Galea**\
 [Raphael.Galea@nrc-cnrc.gc.ca](Raphael.Galea@nrc-cnrc.gc.ca)\
 National Research Council of Canada (NRC - CNRC), Montreal Road, Ottawa, K1A
-0R6, Canada email: <Raphael.Galea@nrc-cnrc.gc.ca>
+0R6, Canada
 
 **A. Luca**\
 [aluca@ifin.nipne.ro](mailto:aluca@ifin.nipne.ro)\
