@@ -11,7 +11,7 @@ has_children: false
 Within the last years, the development of new techniques for the fabrication of
 Si detectors and the design of new measurement chambers, has produced
 considerable advances in the field of alpha-particle spectrometry with
-semiconductor detectors. Peak resolutions are now close to 8.5 keV, approaching
+semiconductor detectors. Peak resolutions are now close to 8.5 keV, approaching
 the theoretical limit attainable with this kind of detectors. From the side of
 numerical analysis of spectra, a major effort has been dedicated by several
 laboratories to produce reliable fitting programs. Although it is difficult to

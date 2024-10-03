@@ -15,7 +15,7 @@ beta-particle spectrometry and its applications. This includes, but is not
 restricted to:
 
 - Theory
-  - Beta (β±) and electron capture (ε) transitions
+  - Beta ($\beta\pm$) and electron capture ($\varepsilon$) transitions
   - Theoretical shape factors and influence of the nuclear current
   - Atomic effects
 
@@ -33,6 +33,6 @@ restricted to:
 - Evaluations and dissemination
   - Confidence and uncertainties on experimental shape factors
   - Evaluation procedure for establishing recommended experimental shape factors
-  - Mean energies, log *ft* values, database
+  - Mean energies, $\log f t$ values, database
 
 Other topic suggestions are welcome.

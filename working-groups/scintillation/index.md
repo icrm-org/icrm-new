@@ -10,8 +10,6 @@ has_children: false
 
 <http://www.lnhb.fr/home/conferences-publications/icrm_lsc_wg/>
 
-<span id="LST"></span>
-
 The purpose of the Liquid Scintillation Counting Working Group is to provide a
 forum for ICRM members to address issues related to liquid scintillation and
 Čerenkov counting. In particular, the CIEMAT/NIST efficiency tracing and the
