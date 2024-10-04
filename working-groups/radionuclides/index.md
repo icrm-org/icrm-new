@@ -20,10 +20,12 @@ Technology (NIST), Gaithersburg, Maryland, 20899–8462, U.S.A.
 Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
 Gif-sur-Yvette Cedex, France
 
-## Subgroups
-
+Subgroup
+{: .label }
 - [Digital Calibration Certificates](./dcc.html)
+
 - [Internal Gas Counting](./gas-counting.html)
+
 - [Large Area Sources](./large-area.html)
 
 The ICRM Radionuclide Metrology Working Group (RMT-WG) consists of experts in
@@ -40,6 +42,5 @@ covers other topics important to the radionuclide metrology community, from
 quantitative source preparation to informing the community about proper
 citations in manuscripts. To this end, the RMT-WG liaises with other ICRM WGs,
 the CCRI (II) and its WGs, the BIPM, and other stakeholders.
-{: .py+4 }
 
 ![Th-229 graph](./images/th-229.png)
