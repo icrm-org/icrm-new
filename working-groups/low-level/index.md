@@ -37,13 +37,4 @@ Isotopes](https://www.sciencedirect.com/journal/applied-radiation-and-isotopes/v
 
 The next Conference will be organized in 2026.
 
-## Subgroups
-
-### QA near decision threshold (etc.)
-
-{: .lead }
-**M. Korun**\
-<matjaz.korun@ijs.si>\
-Jožef Stefan Institute (JSI), Jamova cesta 39, 1000 Ljubljana, Slovenia
-
 ![Iceberg](./images/iceberg.jpg)
