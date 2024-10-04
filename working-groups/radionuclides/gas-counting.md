@@ -1,8 +1,8 @@
 ---
-title: Gas counting
+title: Internal Gas Counting
 layout: default
 parent: Radionuclide Metrology
-nav_order: 1
+nav_order: 2
 ---
 
 # Internal Gas Counting
