@@ -26,6 +26,8 @@ callouts:
     title: Subgroups
     color: grey-dk
 
+math: katex
+
 # exclude:
 #   - README.md
 #   - LICENCE
