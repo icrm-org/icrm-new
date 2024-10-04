@@ -85,3 +85,6 @@ new ideas for discussion. We welcome and encourage participation by colleagues
 who may not be able to otherwise travel to ICRM meetings.
 
 [Meeting interest form](https://forms.gle/WbLEhxNEPRTsm2rp7){: .btn .btn-green}
+
+![](./ICRM_LOG_600dpi.jpg)
+
