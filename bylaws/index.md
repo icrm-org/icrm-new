@@ -7,8 +7,8 @@ nav_order: 4
 # Constitution And Bylaws Of The International Committee For Radionuclide Metrology   <!-- omit in toc -->
 {: .no_toc }
 
-Adopted at the General Meeting in Salamanca, Spain\
-**31 May 2019**
+Adopted at the General Meeting in Bucharest, Romania\
+**31 March 2023**
 
 ## Table of Contents   <!-- omit in toc -->
 {: .no_toc .text-delta }
@@ -29,56 +29,69 @@ radioactivity.
 ## 2. Objectives
 
 `2.1` — The objectives of ICRM shall be to promote, through the active
-participation of all its members, the advancement of radionuclide metrology in
-the world-wide applications of radioactivity and to disseminate information
+participation of all its members, the advancement of radionuclide metrology
+in the worldwide applications of radioactivity and to disseminate information
 relating to, for example, new metrological methods or recent nuclear data.
 
 ## 3. Membership and Rights and Obligations of Members
 
 `3.1` — ICRM shall comprise two types of membership: these shall be designated
-“delegate member” or “delegate” and “associate member” or “associate”. In this
-document “member (s)” shall refer collectively to both types of membership.
+“delegate member” or “delegate” and “associate member” or “associate”. In this
+document “member(s)” shall refer collectively to both types of membership.
 
-`3.2` — A delegate member shall be the person who represents a radionuclide
-metrology laboratory or any other organisation that actively pursues the
-objectives of ICRM. This delegate shall be appointed by his or her organisation,
-to represent it in all its interactions with ICRM, by the procedure specified in
-Section 5 of these bylaws, which also specifies the procedure for any change in
-representation.
+`3.2` — A delegate member shall be the person who represents a radionuclide
+metrology laboratory or any other organisation that actively pursues the
+objectives of ICRM. This delegate shall be appointed by their organisation, to
+represent it in all its interactions with ICRM, by the procedure specified in
+Section 5 of these bylaws, which also specifies the procedure for any change
+in representation.
 
-`3.3` — An associate member shall be a person who is recognised for his or her
+`3.3` — An associate member shall be a person who is recognised for their
 special contributions to the work of the ICRM and its working groups or who has
-indicated his or her willingness to serve in an ICRM organisation (clause 4.2),
-and shall be appointed in accordance with Section 6.
+indicated their willingness to serve in an ICRM organisation (Section 4.2), and
+shall be appointed in accordance with Section 6.
 
 `3.4` — Voting (See Note 2) at General Meetings of the members [Section 7] is
-restricted to delegates.
+restricted to delegates or their proxy (Section 5.2).
 
-`3.5` — Any matter to be decided by majority vote by the delegate members shall
-be the subject of a resolution proposed by any member and seconded by a
-delegate.
+`3.5` — Any matter to be decided by majority vote by the delegates shall be the
+subject of a resolution proposed by any member (delegate or associate) and
+seconded by a delegate.
 
 `3.6` — Each member of ICRM should receive notice by letter (See Note 3) of all
 meetings and elections.
 
-`3.7` — Each delegate should provide biennially (every two years) to all other
-members a brief summary of expected activities in the field of radionuclide
-metrology to be undertaken by his or her organisation in its new working year.
-An associate whose organisation is not represented in ICRM should assume this
-obligation in relation to his or her activities (See Note 5).
+`3.7` — Each delegate should provide biennially to all other members a brief
+summary of expected activities in the field of radionuclide metrology to be
+undertaken by their organisation in its new working year. An associate whose
+organisation is not represented in ICRM should assume this obligation in
+relation to their activities. Because participation in the ICRM conference is
+deemed to satisfy the intent of this requirement, formal reports to the
+membership are required only in the year(s) between ICRM main conferences.
 
 `3.8` — Each member should provide biennially to all other members copies of
-progress reports and publications of his or her organisation which are relevant
-to the objectives of ICRM (See Note 5).
+progress reports and publications of their organisation which are relevant to
+the objectives of ICRM. Because participation in the ICRM conference is
+deemed to satisfy the intent of this requirement, formal reports to the
+membership are required only in the year(s) between ICRM main conferences.
 
 `3.9` — Every member (delegate and associate) should provide and disseminate all
-information related to ICRM activities in his or her organisation or country.
+information related to ICRM activities in their organisation or country.
+
+`3.10` — Reporting of activities pursuant to Sections 3.7 and 3.8 can be satisfied by
+posting of information on the ICRM website, provided that the information is
+reviewed and updated by the member institution. Reports shall be reviewed at
+least every two years, but preferably more often in order to keep the
+information current. A reminder to update the information shall be sent to the
+delegates by the Secretary annually. Submissions shall be sent to the Secretary
+and reviewed for format by the Executive Board, who will then forward the
+submissions to the institution hosting the ICRM website for posting.
 
 ## 4. Organisation of ICRM
 
 `4.1` — The delegates in a General Meeting [Section 7] constitute the supreme
 authority of ICRM. But amendments to these bylaws are subject to the provisions
-of Article 12.
+of Article 13.
 
 `4.2` — The formal organisations of ICRM are: an Executive Board [Section 8],
 that shall administer the affairs of ICRM; a Nominating Committee [Section 9]
@@ -91,10 +104,13 @@ President, the immediate Past President, three Vice-Presidents and a Secretary.
 The President and two Vice-Presidents shall be delegates; any member is eligible
 to be elected to the office of Vice-President or Secretary; noting that
 
-> `i)` at any time there should be four delegate members on the Board, and
+> `i)` at any time there should be four delegate members on the Board, and
+members from the same organisation at a meeting of the Board shall cast a single
+“organisational” vote.
 >
-> `ii)` members from the same organisation at a meeting of the Board shall cast
-a single “organisational” vote.
+> `ii)` ICRM shall not assume any financial or contractual responsibilities, nor
+shall it be responsible for any consequence arising from its activities or those
+of its members.
 
 `4.4` — ICRM shall not assume any financial or contractual responsibilities, nor
 shall it be responsible for any consequence arising from its activities or those
@@ -126,15 +142,17 @@ appointed to serve as delegate to ICRM.
 letter to the President or Secretary, to replace on a temporary or permanent
 basis, the person appointed to serve in this capacity. The time at which the
 change in representation shall come into effect and the period for which it
-shall be effective shall be specified in the letter (See Note 6).
+shall be effective shall be specified in the letter. For a temporary replacement
+at a particular General Meeting, a letter of the organisation’s permanent
+delegate to the President or Secretary of ICRM is sufficient.
 
 ## 6. Election of Associate Members
 
 `6.1` — Any member of ICRM may suggest by letter to the President or Secretary
-the election to associate membership of any person by reason of his or her past
-or anticipated special contributions to ICRM. At its discretion the Executive
-Board may then propose this at a General Meeting and election shall be by
-majority vote of delegate members at that meeting.
+the election to associate membership of any person by reason of their past or
+anticipated special contributions to ICRM. At its discretion the Executive Board
+may then propose this at a General Meeting and election shall be by majority
+vote of delegate members at that meeting.
 
 `6.2` — In accordance with clause 10.3, a newly elected working group
 Coordinator who is not a member of ICRM shall be appointed to associate
@@ -144,9 +162,9 @@ membership during term in office by acclamation of the delegate members.
 any associate no longer willing or able to participate in the activities of ICRM
 should so inform the Secretary by letter. An associate not serving as an officer
 of ICRM nor engaged upon a specific task for ICRM, may be asked by the Secretary
-to confirm his or her wish to continue as an associate member; in the absence
-within one year of any positive response to this request, the membership shall
-be deemed to have lapsed.
+to confirm their wish to continue as an associate member; in the absence within
+one year of any positive response to this request, the membership shall be
+deemed to have lapsed.
 
 ## 7. General Meetings
 
@@ -154,14 +172,14 @@ be deemed to have lapsed.
 members of ICRM at least once in every two years. The time and place of the
 meeting shall be proposed by the Executive Board and confirmed by vote of the
 delegate members. Notice of the meeting shall be sent by letter to each member
-from the Secretary not later than nine months prior to the date of the meeting.
+from the Secretary not later than three months prior to the date of the meeting.
 
 `7.2` — The agenda for the General Meeting shall be proposed by the Executive
 Board and approved by the delegates present at the meeting. The proposed agenda
-should be distributed to members not later than two months before the meeting.
+should be distributed to members not later than one month before the meeting.
 
 `7.3` — An Extraordinary General Meeting may, if deemed necessary, be called by
-the Executive Board. Likewise such a meeting may be proposed, by letter to the
+the Executive Board. Likewise, such a meeting may be proposed, by letter to the
 President or Secretary, by any two delegates. The decision to convene such a
 meeting shall rest with the Executive Board which, in the event, shall also
 choose its location and date.
@@ -181,9 +199,8 @@ forthcoming General Meeting.
 
 `8.3` — The Executive Board shall endeavour to meet once a year.
 
-`8.4` — The quorum for a meeting of the Executive Board shall be three. At any
-meeting of the Executive Board there shall be a voting majority of delegate
-members.
+`8.4` — The quorum for a meeting of the Executive Board shall be three and shall
+have a majority of attendees that are delegates.
 
 `8.5` — All decisions made at duly convened meetings of the Executive Board
 shall be by agreement of a majority of members present, keeping in mind the
@@ -194,14 +211,14 @@ meetings of the Executive Board, and will coordinate the work of other officer
 in accordance with the constitution and bylaws of ICRM.
 
 `8.7` — The Vice-Presidents and the Secretary shall perform duties according to
-these bylaws. If the President should be unable to perform his or her duties,
-they shall be assumed during that disability by a Vice-President designated by
-the President immediately after the latter is elected.
+these bylaws. If the President should be unable to perform their duties, they
+shall be assumed during that disability by a Vice-President designated by the
+President immediately after the latter is elected.
 
 `8.8` — The Secretary shall give notice of and attend meetings of the Executive
 Board and of the membership, and shall perform the duties of recording secretary
 at such meetings. The Secretary shall perform such additional duties as may be
-required of him or her in accordance with these bylaws. If the Secretary is
+required of them in accordance with these bylaws. If the Secretary is
 indisposed, the President shall appoint an ICRM member to serve as Secretary,
 for such time as may be needed.
 
@@ -213,7 +230,7 @@ be eligible for immediate re-election only once.
 
 `8.11` — The Secretary shall be elected for an initial term of two years, but
 shall be eligible for immediate re-election regardless of the number of
-consecutive terms in office which he or she has served.
+consecutive terms in office which they have served.
 
 `8.12` — A term in office of a member of the Executive Board or Nominating
 Committee (Section 9), stated as a certain number of years, is understood as
@@ -221,15 +238,10 @@ extendable by a maximum of 6 months, if the sequence of General Meetings he
 concurrence with ICRM conferences so requires.
 
 `8.13` — The election of officers to serve on the Executive Board and Nominating
-Committee shall be carried out in accordance with Section 11 of this
-constitution.
+Committee shall be carried out in accordance with Section 11 of these bylaws.
 
 `8.14` — The Secretary shall inform all members by letter within four weeks of
 the result of every election.
-
-`8.15` — The Executive Board shall select and approve an Editor to maintain and
-update a biennial ICRM Newsletter which shall be made available to all members
-electronically.
 
 ## 9. Nominating Committee: Duties, Terms of Office, and Election
 
@@ -242,24 +254,24 @@ the Executive Board and the Nominating Committee.
 membership of ICRM, who shall not be members of the Executive Board. The
 Secretary of ICRM shall serve as liaison between the Nominating Committee and
 the Executive Board. The members of the Nominating Committee shall appoint one
-of their members to act as Chairman of their committee. The appointee shall
-identify himself or herself to the Secretary within four weeks of the most
-recent election to the Nominating Committee. The Chairman shall coordinate the
-work of the Committee.
+of their members to act as Chair of their committee. The appointee shall
+identify themselves to the Secretary within four weeks of the most recent
+election to the Nominating Committee. The Chair shall coordinate the work of the
+Committee.
 
 `9.3` — The duty of the Nominating Committee shall be to prepare a list of
 candidates who have agreed in writing to be nominated to stand for election to
 any office becoming vacant on the Executive Board or Nominating Committee.
 
-`9.4` — The Chairman of the Nominating Committee shall notify all members of
-ICRM, by letter sent to be received not later than two months before the date of
-an election, of any forthcoming vacancies on the Executive Board and Nominating
+`9.4` — The Chair of the Nominating Committee shall notify all members of ICRM,
+by letter sent to be received not later than two months before the date of an
+election, of any forthcoming vacancies on the Executive Board and Nominating
 Committee. The list of candidates already nominated by the Nominating Committee
 [Article 9.3] to fill these vacancies shall be sent at the same time, together
 with an invitation to the members to submit further nominations to the
 Nominating Committee, not later than one month before the date of the election.
 The final list of candidates shall be sent to all ICRM members at least two
-weeks prior to the election.
+weeks prior to the election (see Section 11.1).
 
 `9.5` — Each member of the Nominating Committee shall hold office for a term of
 four years. Members shall be eligible for immediate re-election only once.
@@ -274,8 +286,8 @@ of two years, and for a specific purpose which is consistent with the objecti
 of ICRM.
 
 `10.3` — A Coordinator for each working group shall be chosen by majority vote
-of the delegates. If the elected Coordinator is not already a member of ICRM, he
-or she shall automatically be an associate member during term in office.
+of the delegates. If the elected Coordinator is not already a member of ICRM,
+they shall automatically be an associate member during term in office.
 
 `10.4` — The need for the continuation of existing working groups shall be
 reviewed every two years by the delegates at a General Meeting on the basis of a
@@ -283,17 +295,17 @@ written status report prepared by the Coordinator of the working group and
 circulated with the provisional agenda [Section 7.2].
 
 `10.5` — The Coordinator of each working group shall plan the work of the group,
-and may appoint qualified persons, who need not be members of ICRM, to his
+and may appoint qualified persons, who need not be members of ICRM, to their
 working group.
 
 `10.6` — In the event of a within-term resignation of a working group
 Coordinator, the Executive Board shall appoint an interim replacement in
-accordance with Article 11.5.
+accordance with Articles 11.5 and 12.3.
 
 ## 11. Election of ICRM Officers
 
 `11.1` — Any member of ICRM may nominate a candidate to fill any vacant ICRM
-office after having first obtained his or her agreement in writing. All such
+office after having first obtained their agreement in writing. All such
 nominations shall be sent to reach a member of the Nominating Committee at least
 one month before the date of the election. If a vacancy should be created after
 the deadline of one month before the date of election including at the General
@@ -301,7 +313,7 @@ Meeting itself, and by virtue of Article 4.1, any member shall have the right 
 propose, at that General Meeting, a candidate for election to the vacated
 office.
 
-`11.2` — If only one candidate has been nominated for a given office, his or her
+`11.2` — If only one candidate has been nominated for a given office, their
 election shall be formally approved by the delegates at a General Meeting or, in
 the absence of a General Meeting, by the Executive Board.
 
@@ -312,17 +324,60 @@ delegates arranged by the Secretary.
 `11.4` — If more than one position as Vice-President or member of the Nominating
 Committee are vacant, separate elections per vacant position shall be held.
 
-`11.5` — In the event that any office becomes vacant before expiry of the term,
-a temporary appointment to run until the next General Meeting shall be made by
-the Executive Board. Such temporary service as an officer shall not constitute a
-term in office as defined elsewhere in these bylaws.
+`11.5` — In the event that any office (including Working Group Coordinator)
+becomes vacant before expiry of the term, a temporary appointment to run until
+the next General Meeting shall be made by the Executive Board. Such temporary
+service as an officer shall not constitute a term in office as defined elsewhere
+in these bylaws.
 
 `11.6` — Where the result of an election to office in ICRM is declared at a
 General Meeting or at a meeting of the Executive Board, the term in office shall
 commence at the conclusion of that meeting. In all other cases the term shall
 begin on the day following the election.
 
-## 12. Amendments
+## 12. Resignation and Replacement of Officers (including Nominating Committee and Working Group Coordinators)
+
+`12.1` — Voluntary abdication of position: In the event an officer (in this
+context meaning member of the Executive Board or Nominating Committee or Working
+Group Coordinators) finds that they are unable to continue performing their
+duties on a permanent basis, they shall notify the Executive Board in writing
+within 30 days of their intent to vacate their position.
+
+`12.2` — Involuntary removal from office upon abandonment of duties: In the
+extraordinary case in which an officer fails to carry out their duties for an
+extended period time through inaction without communicating with the Executive
+Board, that officer is considered to have abandoned their position de facto and
+may be replaced on a temporary basis by the Executive Board.
+
+> `(a)` The officer is considered to have abandoned their position if they
+consistently fail to perform required tasks of that position or attend required
+meetings without communicating with the Executive Board to provide an
+explanation.
+>
+> `(b)` Prior to being considered for replacement due to abandonment of a position,
+a good faith effort to communicate with the officer shall be made by the
+Executive Board. This should include no fewer than three documented attempts to
+reach the officer via electronic mail, telephone, or through a colleague at the
+same institution over a period of 6 weeks. The final attempt to communicate
+shall include a notice that action will be initiated to remove that officer from
+their position.
+
+`12.3` — Once it is established that the officer is unresponsive to requests to
+explain their absences and / or inaction, the proposal to remove the officer
+shall be made by a member of the Executive Board and shall be ratified by at
+least 2/3 majority of the Executive Board (or remaining members of the Executive
+Board if the officer is an Executive Board member).
+
+`12.4` — The Executive Board shall appoint a temporary replacement for the
+removed officer that will serve in that capacity until the next General Meeting.
+In the event the removed officer is the President, the duties of President shall
+generally be assumed by the Acting President (appointed under Section 8.7).
+
+`12.5` — Once action has been taken to remove an officer and a replacement is
+appointed, the Executive Board shall notify the removed officer and the
+delegates in writing no more than 5 days following the completion of the action.
+
+## 13. Amendments
 
 This ICRM constitution and these bylaws, apart from the Notes, may be amended,
 repealed or altered, in whole or in part, by a two-thirds majority vote of the
@@ -339,41 +394,28 @@ majority vote.
    language for the conduct of the business and other activities of ICRM.
 
 2. Except where specified elsewhere in these bylaws majority voting at meetings
-   of ICRM will normally be by a show of hands, unless a secret ballot
-   is requested by one quarter of the delegate members present. Persons to count
+   of ICRM will normally be by a show of hands, unless a secret ballot is
+   requested by one quarter of the delegate members present. Persons to count
    the votes shall be appointed by the presiding officer if needed.
 
 3. “Letter” in these bylaws shall mean a written message communicated by mail
    (physical or electronic).
 
-4. A secret mailed ballot shall be carried out as follows: The Chairman of the
-   Nominating Committee shall prepare ballot forms listing each office for which
-   an election is required, and the name, organisation and country of each
-   candidate. These forms are then mailed to each delegate member at least two
-   weeks before the date announced for the election. Each delegate, having
-   recorded his or her vote, shall return the ballot form by mail, or in person,
-   to the Secretary in time to reach that officer no later than at the date
-   of the election.
+4. A secret mailed ballot shall be carried out as follows:
 
-   The Secretary and a member of ICRM or, lacking that, another colleague
-   “of good repute” shall tally the votes, certify the results and send them
-   to all other members of the Executive Board for their confirmation and
-   resolution of any tied vote. The same quorum as for a General Meeting
-   (Article 7.4) shall apply. The results of the election should be sent by the
-   Secretary to the members of ICRM within two weeks. In the event of a tied
-   vote, only delegates on the Executive Board shall be entitled to vote.
+   The Chairman of the Nominating Committee shall prepare ballot forms listing
+   each office for which an election is required, and the name, organisation and
+   country of each candidate. These forms are then mailed to each delegate
+   member at least two weeks before the date announced for the election.
 
-5. The ICRM Newsletter specified in clause 8.15 of these bylaws shall contain:
+   Each delegate, having recorded their vote, shall return the ballot form by
+   mail, or in person, to the Secretary in time to reach that officer no later
+   than at the date of the election.
 
-   (a) the reports from members required under clauses 3.7 and 3.8 of the
-   bylaws;
-
-   (b) a biennial (every two years) report from each of the working group
-   Coordinators;
-
-   (c) other information about ICRM that the Executive Board, in consultation
-   with the Editor, shall consider to be useful to members.
-
-   (d) For a temporary replacement at a particular General Meeting, a letter
-   of the organisation’s permanent delegate to the President or Secretary
-   of ICRM is sufficient.
+   The Secretary and a member of ICRM or, lacking that, another colleague "of
+   good repute" shall tally the votes, certify the results and send them to all
+   other members of the Executive Board for their confirmation and resolution of
+   any tied vote. The same quorum as for a General Meeting (Article 7.4) shall
+   apply. The results of the election should be sent by the Secretary to the
+   members of ICRM within two weeks. In the event of a tied vote, only delegates
+   on the Executive Board shall be entitled to vote.
