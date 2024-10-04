@@ -6,7 +6,7 @@ nav_order: 1
 
 # International Committee for Radionuclide Metrology
 
-**THIS IS A TEST WEBSITE AND MAYNOT BE UP TO DATE. THE OFFICIAL SITE CAN BE FOUND [HERE](https://physics.nist.gov/ICRM/index.html)**
+**THIS IS A TEST WEBSITE AND MAY NOT BE UP TO DATE. THE OFFICIAL SITE CAN BE FOUND [HERE](https://physics.nist.gov/ICRM/index.html)**
 
 The International Committee for Radionuclide Metrology (ICRM) is an association
 of radionuclide metrology laboratories whose membership is composed of delegates
