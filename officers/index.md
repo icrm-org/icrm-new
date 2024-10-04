@@ -15,8 +15,8 @@ Physical Measurement Laboratory, National Institute of Standards and Technology
 
 ## Past President
 
-**E. García-Toraño**\
-<e.garciatorano@ciemat.es>\
+**E. García-Toraño**, retired\
+<egtorano@outlook.com>\
 Metrología de Radiaciones Ionizantes, Centro de Investigaciones Energéticas,
 Medioambientales y Tecnológicas (CIEMAT), Avenida Complutense 40, E-28040
 Madrid, Spain
@@ -28,21 +28,21 @@ Madrid, Spain
 National Research Council of Canada (NRC-CNRC), Montreal Road, Ottawa, K1A
 0R6, Canada
 
-**A. Luca**\
-<aluca@ifin.nipne.ro>\
-Horia Hulubei National Institute of Physics and Nuclear Engineering (IFIN-HH),
-Strada Reactorului 30, Măgurele, Romania
-
-**C Michotte**\
+**C. Michotte**\
 <cmichott@bipm.org>\
 International Bureau of Weights and Measures (BIPM), Pavillon de Breteuil, 92312
 Sèvres Cedex, France
 
+**K. Kossert**\
+<Karsten.Kossert@ptb.de>\
+Physikalisch-Technische Bundesanstalt, Fachbereich 6.1, Bundesallee 100, D-38116 Braunschweig, Germany
+
 ## Secretary
 
-**D. Glavič-Cindro**\
-<denis.cindro@ijs.si>\
-Jožef Stefan Institute, Jamova 39, SI-1000 Ljubljana, Slovenia
+**F. Van Wyngaardt**\
+<freda@ansto.gov.au>\
+Australia's Nuclear Science and Technology Organisation, New Illawarra Rd, Lucas Heights, Sydney, NSW, 2234, Australia 
+
 
 ## Chair Nominating Committee
 
