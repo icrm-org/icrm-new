@@ -9,6 +9,12 @@ nav_order: 2
 
 [Home at LNHB](http://www.lnhb.fr/home/conferences-publications/icrm_bs_wg/){: .btn .btn-green}
 
+{: .chair }
+**X. Mougeot**\
+<xavier.mougeot@cea.fr>\
+Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
+Gif-sur-Yvette Cedex, France
+
 This Working Group is devoted to the development of the metrological aspects of
 beta-particle spectrometry and its applications. This includes, but is not
 restricted to:

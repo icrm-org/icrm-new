@@ -7,6 +7,12 @@ nav_order: 3
 
 # Gamma-Ray Spectrometry Working Group
 
+{: .chair }
+**M.-C. Lépy**\
+<marie-christine.lepy@cea.fr>\
+Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
+Gif-sur-Yvette Cedex, France
+
 Gamma-ray spectrometry is a widely used analysis technique, with applications in
 a large range of fields and expertise. The ICRM Gamma Spectrometry Working Group
 (GSWG) is devoted to the development of the metrological aspects of gamma-ray

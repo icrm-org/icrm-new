@@ -7,6 +7,12 @@ nav_order: 6
 
 # Life Sciences Working Group
 
+{: .chair }
+**J. Cessna**\
+<jeffrey.cessna@nist.gov>\
+National Institute of Standards and Technology (NIST), Gaithersburg, Maryland,
+20899–8462, U.S.A.
+
 The purpose of the Life Sciences Working Group is to provide a forum for ICRM
 members to address radionuclide metrology issues as they relate to the life
 sciences. Issues may include, but are not limited to: development of

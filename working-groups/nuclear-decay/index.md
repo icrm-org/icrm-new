@@ -9,6 +9,12 @@ nav_order: 7
 
 [Home at LNHB](http://www.lnhb.fr/home/conferences-publications/icrm_ndd_wg/){: .btn .btn-green}
 
+{: .chair }
+**M. Kellett**\
+<mark.kellett@cea.fr>\
+Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
+Gif-sur-Yvette Cedex, France
+
 The Nuclear Decay Data Working Group (3NDWG) facilitates awareness and
 communications between ICRM members interested in the measurement, calculation,
 compilation and evaluation of decay data, and the maintenance of computer-based

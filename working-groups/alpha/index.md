@@ -7,6 +7,13 @@ nav_order: 1
 
 # Alpha-Particle Spectrometry Working Group
 
+{: .chair }
+**S. Pommé**\
+<stefaan.pomme@ec.europa.eu>\
+European Commission, Joint Research Centre (EC-JRC), Institute for
+Reference Materials and Measurements (IRMM), Retieseweg 111, B-2440 Geel,
+Belgium
+
 Within the last years, the development of new techniques for the fabrication of
 Si detectors and the design of new measurement chambers, has produced
 considerable advances in the field of alpha-particle spectrometry with

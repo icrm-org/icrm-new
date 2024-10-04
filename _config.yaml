@@ -16,7 +16,9 @@ callouts:
   note:
     title: Note
     color: green
-
+  chair:
+    title: Chair
+    color: blue
 
 # exclude:
 #   - README.md
