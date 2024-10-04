@@ -8,13 +8,13 @@ has_toc: false
 
 # Low Level Measurement Techniques Working Group
 
-{: .chair }
+{: .coordinator }
 **Daniel Zapata**\
 <daniel.zapata@ptb.de>\
 Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-38116
 Braunschweig, Germany
 
-{: .chair }
+{: .coordinator }
 **Begoña Quintana-Arnés**\
 <quintana@usal.es>\
 Catedrática de Física Atómica, Molecular y Nuclear Laboratorio de Radiaciones

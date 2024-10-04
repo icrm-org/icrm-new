@@ -7,7 +7,7 @@ nav_order: 1
 
 # Alpha-Particle Spectrometry Working Group
 
-{: .chair }
+{: .coordinator }
 **S. Pommé**\
 <stefaan.pomme@ec.europa.eu>\
 European Commission, Joint Research Centre (EC-JRC), Institute for

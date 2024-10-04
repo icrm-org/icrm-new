@@ -16,8 +16,8 @@ callouts:
   note:
     title: Note
     color: green
-  chair:
-    title: Chair
+  coordinator:
+    title: Coordinator
     color: blue
   lead:
     title: Lead

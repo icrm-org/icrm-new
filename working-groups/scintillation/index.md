@@ -9,7 +9,7 @@ nav_order: 4
 
 [Home at LNHB](http://www.lnhb.fr/home/conferences-publications/icrm_lsc_wg/){: .btn .btn-green}
 
-{: .chair}
+{: .coordinator }
 **K. Kossert**\
 <karsten.kossert@ptb.de>\
 Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-3811Braunschweig, Germany

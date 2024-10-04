@@ -9,7 +9,7 @@ nav_order: 7
 
 [Home at LNHB](http://www.lnhb.fr/home/conferences-publications/icrm_ndd_wg/){: .btn .btn-green}
 
-{: .chair }
+{: .coordinator }
 **M. Kellett**\
 <mark.kellett@cea.fr>\
 Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191

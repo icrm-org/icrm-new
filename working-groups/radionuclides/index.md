@@ -8,13 +8,13 @@ has_toc: false
 
 # Radionuclide Metrology Techniques Working Group
 
-{: .chair }
+{: .coordinator }
 **R. Fitzgerald**\
 <ryan.fitzgerald@nist.gov>\
 Physical Measurement Laboratory, National Institute of Standards and
 Technology (NIST), Gaithersburg, Maryland, 20899–8462, U.S.A.
 
-{: .chair }
+{: .coordinator }
 **C. Bobin**\
 <Christophe.bobin@cea.fr>\
 Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191

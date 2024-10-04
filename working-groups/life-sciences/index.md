@@ -7,7 +7,7 @@ nav_order: 6
 
 # Life Sciences Working Group
 
-{: .chair }
+{: .coordinator }
 **J. Cessna**\
 <jeffrey.cessna@nist.gov>\
 National Institute of Standards and Technology (NIST), Gaithersburg, Maryland,

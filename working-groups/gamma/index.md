@@ -7,7 +7,7 @@ nav_order: 3
 
 # Gamma-Ray Spectrometry Working Group
 
-{: .chair }
+{: .coordinator }
 **M.-C. Lépy**\
 <marie-christine.lepy@cea.fr>\
 Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
