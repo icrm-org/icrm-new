@@ -86,5 +86,5 @@ who may not be able to otherwise travel to ICRM meetings.
 
 [Meeting interest form](https://forms.gle/WbLEhxNEPRTsm2rp7){: .btn .btn-green}
 
-![](./ICRM_LOG_600dpi.jpg)
+![](./ICRM_LOGO_600dpi.jpg)
 

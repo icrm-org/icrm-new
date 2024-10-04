@@ -2,6 +2,7 @@ title: ICRM
 description: International Committee for Radionuclide Metrology
 theme: just-the-docs
 color_scheme: icrm
+logo: "./ICRM_LOGO_600dpi.jpg" 
 
 url: https://icrm-org.github.io/icrm-new/
 
@@ -25,7 +26,7 @@ callouts:
   subgroups:
     title: Subgroups
     color: grey-dk
-
+  
 math: katex
 
 # exclude:
