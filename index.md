@@ -6,7 +6,10 @@ nav_order: 1
 
 # International Committee for Radionuclide Metrology
 
-**THIS IS A TEST WEBSITE AND MAY NOT BE UP TO DATE. THE OFFICIAL SITE CAN BE FOUND [HERE](https://physics.nist.gov/ICRM/index.html)**
+{: .warning }
+The new version of the ICRM website is currently undergoing testing. Please
+refer to the [original website](https://physics.nist.gov/ICRM/index.html) for
+authoritative information.
 
 The International Committee for Radionuclide Metrology (ICRM) is an association
 of radionuclide metrology laboratories whose membership is composed of delegates
@@ -21,6 +24,7 @@ industry, supporting activities such as radionuclide production, nuclear
 medicine, measurement of environmental radioactivity and of radionuclides in
 food and drinking water, decommissioning of nuclear facilities, nuclear security
 and emergency preparedness, nuclear physics research, etc.
+{: .py+4 }
 
 Plenary meetings of the ICRM are held biennially and have developed into
 scientific ICRM conferences, a successful instrument of communication among
