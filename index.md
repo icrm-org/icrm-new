@@ -6,6 +6,8 @@ nav_order: 1
 
 # International Committee for Radionuclide Metrology
 
+**THIS IS A TEST WEBSITE AND MAYNOT BE UP TO DATE. THE OFFICIAL SITE CAN BE FOUND [HERE](https://physics.nist.gov/ICRM/index.html)**
+
 The International Committee for Radionuclide Metrology (ICRM) is an association
 of radionuclide metrology laboratories whose membership is composed of delegates
 of these laboratories together with other scientists (associate members)
@@ -27,7 +29,7 @@ recent in the series of ICRM meetings, the “23rd International Conference on
 Radionuclide Metrology and its Applications, ICRM 2023” was held from 27 to 31
 March 2023 in Bucharest and hosted by the Horia Hulubei National Institute for
 Physics and Nuclear Engineering (IFIN-HH). The proceedings of ICRM 2023 have
-been published, and articles are available electronically on
+been published, and select articles are available electronically on
 [ScienceDirect](https://doi.org/10.1016/j.apradiso.2024.111385). Additional
 papers have been published in the ICRM Technical Series ([Issue
 3](https://physics.nist.gov/ICRM/ICRM_technicalseries_3.pdf)) on Radionuclide
