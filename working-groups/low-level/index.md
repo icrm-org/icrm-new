@@ -1,5 +1,5 @@
 ---
-title: Low Level Measurement Techniques
+title: Low Level Measurement
 layout: default
 parent: Working Groups
 nav_order: 5
@@ -37,11 +37,11 @@ Isotopes](https://www.sciencedirect.com/journal/applied-radiation-and-isotopes/v
 
 The next Conference will be organized in 2026.
 
-## QA near decision threshold (etc.)
+## Subgroups
 
-Subgroup{: .label }
+### QA near decision threshold (etc.)
 
-{: .chair }
+{: .lead }
 **M. Korun**\
 <matjaz.korun@ijs.si>\
 Jožef Stefan Institute (JSI), Jamova cesta 39, 1000 Ljubljana, Slovenia

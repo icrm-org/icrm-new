@@ -19,6 +19,9 @@ callouts:
   chair:
     title: Chair
     color: blue
+  lead:
+    title: Lead
+    color: grey-dk
 
 # exclude:
 #   - README.md
