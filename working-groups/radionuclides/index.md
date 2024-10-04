@@ -20,19 +20,16 @@ Technology (NIST), Gaithersburg, Maryland, 20899–8462, U.S.A.
 Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
 Gif-sur-Yvette Cedex, France
 
-Subgroup
-{: .label }
-- [Digital Calibration Certificates](./dcc.html)
-
-- [Internal Gas Counting](./gas-counting.html)
-
-- [Large Area Sources](./large-area.html)
+{: .subgroups }
+[Digital Calibration Certificates](./dcc.html)\
+[Internal Gas Counting](./gas-counting.html)\
+[Large Area Sources](./large-area.html)
 
 The ICRM Radionuclide Metrology Working Group (RMT-WG) consists of experts in
 the field of radionuclide metrology. Meetings of the RMT-WG are held
 approximately annually as a forum for practitioners to share ongoing
 developments, gain input from peers on challenges, and work together to address
-common needs. Historically, a focus has been on 4πβ-γ coincidence counting, and
+common needs. Historically, a focus has been on 4$\pi\beta$-$\gamma$ coincidence counting, and
 its variants. More recently, that topic has broadened to address the metrology
 of counting for a variety of measurement methods, and especially the many
 aspects of absolute counting using digital electronics, which has become an

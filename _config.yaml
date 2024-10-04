@@ -22,6 +22,9 @@ callouts:
   lead:
     title: Lead
     color: grey-dk
+  subgroups:
+    title: Subgroups
+    color: grey-dk
 
 # exclude:
 #   - README.md

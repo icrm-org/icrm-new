@@ -20,10 +20,8 @@ Braunschweig, Germany
 Catedrática de Física Atómica, Molecular y Nuclear Laboratorio de Radiaciones
 Ionizantes y Datación, Edificio de I+D+i, c) Espejo 2, 37007-Salamanca, Spain
 
-{: .subgroup }
-## Subgroups
-
-- [Decision threshold Quality Assurance](./decision-threshold.html)
+{: .subgroups }
+[Decision threshold Quality Assurance](./decision-threshold.html)
 
 The ICRM working group for Low-Level Measurements Techniques (LLMT) examines
 techniques to enable the detection of ever smaller amounts of radioactivity.
