@@ -1,0 +1,7 @@
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+
+_site/
+Gemfile.lock
