@@ -40,5 +40,6 @@ covers other topics important to the radionuclide metrology community, from
 quantitative source preparation to informing the community about proper
 citations in manuscripts. To this end, the RMT-WG liaises with other ICRM WGs,
 the CCRI (II) and its WGs, the BIPM, and other stakeholders.
+{: .py+4 }
 
 ![Th-229 graph](./images/th-229.png)

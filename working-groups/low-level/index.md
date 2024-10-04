@@ -20,6 +20,7 @@ Braunschweig, Germany
 Catedrática de Física Atómica, Molecular y Nuclear Laboratorio de Radiaciones
 Ionizantes y Datación, Edificio de I+D+i, c) Espejo 2, 37007-Salamanca, Spain
 
+{: .subgroup }
 ## Subgroups
 
 - [Decision threshold Quality Assurance](./decision-threshold.html)

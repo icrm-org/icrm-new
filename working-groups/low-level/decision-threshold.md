@@ -1,5 +1,5 @@
 ---
-title: Decision Threshold
+title: Decision Threshold QA
 layout: default
 parent: Low Level Measurement
 nav_order: 1
