@@ -21,7 +21,7 @@ restricted to:
 
 ## Theory
 
-- Beta ($\beta\pm$) and electron capture ($\varepsilon$) transitions
+- Beta (β±) and electron capture (ε) transitions
 - Theoretical shape factors and influence of the nuclear current
 - Atomic effects
 
@@ -42,7 +42,7 @@ restricted to:
 
 - Confidence and uncertainties on experimental shape factors
 - Evaluation procedure for establishing recommended experimental shape factors
-- Mean energies, $\log f t$ values, database
+- Mean energies, log *ft* values, database
 
 {: .note}
 Other topic suggestions are welcome.
