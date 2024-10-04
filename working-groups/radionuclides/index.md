@@ -34,30 +34,4 @@ quantitative source preparation to informing the community about proper
 citations in manuscripts. To this end, the RMT-WG liaises with other ICRM WGs,
 the CCRI (II) and its WGs, the BIPM, and other stakeholders.
 
-## Subgroups
-
-### Digital Calibration Certificates (DCC)
-
-{: .lead }
-**J. Keightley**\
-<John.Keightley@npl.co.uk>\
-National Physical Laboratory (NPL), Hampton Road, Teddington, Middlesex, TW11
-0LW, UK
-
-### Internal Gas Counting
-
-{: .lead }
-**S. Bell**\
-<steven.bell@npl.co.uk>\
-National Physical Laboratory (NPL), Hampton Road, Teddington, Middlesex, TW11
-0LW, UK
-
-### Large Area Sources
-
-{: .lead }
-**O. Nähle**\
-<ole.j.naehle@ptb.de>\
-Physikalisch-Technische Bundesanstalt (PTB) Bundesallee 100, 38116
-Braunschweig, Germany
-
 ![Th-229 graph](./images/th-229.png)
