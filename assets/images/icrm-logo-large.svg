@@ -72,34 +72,4 @@
       <rect width="1920" height="1280" />
     </clipPath>
   </defs>
-  <g clip-path="url(#_clipPath_Sg4fcA7MgmolkESVhREUt1aLf8saTsie)">
-    <g>
-      <line x1="96" y1="108.02" x2="416" y2="108.02" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,0,0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
-      <path d=" M 329.397 108.02 L 416 158.02 L 558 158.02" fill="none" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,0,0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
-      <path d=" M 226.795 108.02 L 400 208.02 L 560 208.02" fill="none" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,0,0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
-      <path d=" M 124.192 108.02 L 384 258.02 L 562 258.02" fill="none" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,0,0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
-      <g clip-path="url(#_clipPath_HHusLO3qvM2uonamiTSHt7sNSCi1dAOO)">
-        <text transform="matrix(1,0,0,1,590,272.04)" style="font-family:'Rubik';font-weight:700;font-size:184px;font-style:normal;fill:#000000;stroke:none;">ICRM</text>
-      </g>
-      <defs>
-        <clipPath id="_clipPath_HHusLO3qvM2uonamiTSHt7sNSCi1dAOO">
-          <rect x="0" y="0" width="471" height="218.04" transform="matrix(1,0,0,1,590,100)" />
-        </clipPath>
-      </defs>
-    </g>
-    <g>
-      <line x1="96" y1="408.02" x2="416" y2="408.02" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,155,124)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
-      <path d=" M 329.397 408.02 L 416 458.02 L 558 458.02" fill="none" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,155,124)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
-      <path d=" M 226.795 408.02 L 400 508.02 L 560 508.02" fill="none" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,155,124)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
-      <path d=" M 124.192 408.02 L 384 558.02 L 562 558.02" fill="none" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,155,124)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
-      <g clip-path="url(#_clipPath_o6oskCrjTWjGRM512fIDxcZBUZSsfwSJ)">
-        <text transform="matrix(1,0,0,1,590,572.04)" style="font-family:'Rubik';font-weight:700;font-size:184px;font-style:normal;fill:#009b7c;stroke:none;">ICRM</text>
-      </g>
-      <defs>
-        <clipPath id="_clipPath_o6oskCrjTWjGRM512fIDxcZBUZSsfwSJ">
-          <rect x="0" y="0" width="471" height="218.04" transform="matrix(1,0,0,1,590,400)" />
-        </clipPath>
-      </defs>
-    </g>
-  </g>
 </svg>
