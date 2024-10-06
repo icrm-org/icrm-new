@@ -5,6 +5,8 @@ color_scheme: icrm
 
 url: https://icrm-org.github.io/icrm-new/
 
+logo: "/assets/images/icrm-logo-small.png"
+
 nav_external_links:
   - title: Report an issue
     url: https://github.com/icrm-org/icrm-new/issues

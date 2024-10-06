@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 1920 1280" width="1920pt" height="1280pt">
+  <defs>
+    <clipPath id="_clipPath_DtrNItsOH8wG4kgpXfZAhcPwmpPcwrA9">
+      <rect width="1920" height="1280" />
+    </clipPath>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,700');
+    </style>
+  </defs>
+  <g clip-path="url(#_clipPath_DtrNItsOH8wG4kgpXfZAhcPwmpPcwrA9)">
+    <g>
+      <line x1="96" y1="408.02" x2="416" y2="408.02" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,155,124)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
+      <path d=" M 329.397 408.02 L 416 458.02 L 558 458.02" fill="none" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,155,124)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
+      <path d=" M 226.795 408.02 L 400 508.02 L 560 508.02" fill="none" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,155,124)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
+      <path d=" M 124.192 408.02 L 384 558.02 L 562 558.02" fill="none" vector-effect="non-scaling-stroke" stroke-width="24" stroke="rgb(0,155,124)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
+      <g clip-path="url(#_clipPath_WCEh9zyWFQfvXWtpC5SWTGh2XlflFuMm)">
+        <text transform="matrix(1,0,0,1,590,572.04)" style="font-family:'Rubik';font-weight:700;font-size:184px;font-style:normal;fill:#009b7c;stroke:none;src: url(#Super_Sans);">ICRM</text>
+      </g>
+      <defs>
+        <clipPath id="_clipPath_WCEh9zyWFQfvXWtpC5SWTGh2XlflFuMm">
+          <rect x="0" y="0" width="471" height="218.04" transform="matrix(1,0,0,1,590,400)" />
+        </clipPath>
+      </defs>
+    </g>
+  </g>
+</svg>
