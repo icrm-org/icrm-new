@@ -6,7 +6,7 @@ This repository contains the website of the International Committee for Radionuc
 
 To maintain the integrity of the live website, it's essential to follow a structured editing process. Below is the recommended workflow for updating website content on GitHub:
 
-1. Edit the markdown `.md` files, or create new ones.
+1. Edit the markdown `.md` files, or create new ones
 2. Commit all changes to a new branch
 3. Create a pull request for the new branch
 4. Upon approval, merge into `main`
