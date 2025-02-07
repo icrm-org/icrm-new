@@ -405,7 +405,7 @@ majority vote.
 
 4. A secret mailed ballot shall be carried out as follows:
 
-   The Chairman of the Nominating Committee shall prepare ballot forms listing
+   The Chair of the Nominating Committee shall prepare ballot forms listing
    each office for which an election is required, and the name, organisation and
    country of each candidate. These forms are then mailed to each delegate
    member at least two weeks before the date announced for the election.
