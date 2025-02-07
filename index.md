@@ -78,15 +78,8 @@ Working Group was held on April 18–19, 2024 and was hosted by the CIEMAT
 [agenda](./working-groups/gamma/meeting-april-18-19-2024.pdf)
 is still available.
 
-The ICRM Radionuclide Metrology Techniques (RMT) Working Group will host its
+The ICRM Radionuclide Metrology Techniques (RMT) Working Group hosted its
 interim meeting online 21 to 23 October 2024 (from 11:00 UTC to 15:00 UTC each
 day), with digital electronics discussed on 21 October, coincidence counting
 on 22 October, and gas counting and cryogenic calorimetry on 23 October.
-A detailed agenda will be distributed closer to the meeting. The meeting will
-be online only, via Teams. If you did not complete the survey after the first
-announcement, please click on the button below. This is a great opportunity
-to discuss work-in-progress, get help with measurement challenges, or suggest
-new ideas for discussion. We welcome and encourage participation by colleagues
-who may not be able to otherwise travel to ICRM meetings.
 
-[Meeting interest form](https://forms.gle/WbLEhxNEPRTsm2rp7){: .btn .btn-green}
