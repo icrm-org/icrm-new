@@ -166,7 +166,7 @@ to confirm their wish to continue as an associate member; in the absence wi
 one year of any positive response to this request, the membership shall be
 deemed to have lapsed.
 
-## 7. General Meetings
+## 7. General Meetings and ICRM conferences
 
 `7.1` — The Executive Board shall endeavour to convene a General Meeting of the
 members of ICRM at least once in every two years. The time and place of the
@@ -187,6 +187,8 @@ choose its location and date.
 `7.4` — The quorum for a General Meeting or an Extraordinary General Meeting
 shall be twelve delegates or thirty per cent of the delegate membership,
 whichever is larger.
+
+`7.5`	The Executive Board shall endeavour to convene an ICRM conference once every two years in connection with a General Meeting (Article 7.1). The time and place of the conference shall be proposed by the Executive Board and confirmed by vote of the delegate members. The ICRM conference serves to fulfil the dissemination of information as described in Section 2 and in the Articles 3.7 and 3.8.
 
 ## 8. Executive Board: Duties, Terms of Office, Nomination and Election
 
