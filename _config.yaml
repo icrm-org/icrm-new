@@ -11,8 +11,8 @@ nav_external_links:
   - title: Report an issue
     url: https://github.com/icrm-org/icrm-new/issues
 
-aux_links:
-  View ICRM on GitHub: https://github.com/icrm-org/icrm-new/
+#aux_links:
+#  View ICRM on GitHub: https://github.com/icrm-org/icrm-new/
 
 callouts:
   note:
