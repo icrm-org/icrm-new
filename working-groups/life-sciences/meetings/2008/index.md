@@ -40,7 +40,7 @@ Teddington, UK
 
 ### Other topics
 
-- [ANSI N42.13 upcoming new version](day2/ANSIN42-13.pdf) (J. Cessna)
+- ANSI N42.13 upcoming new version (J. Cessna)
 
 - Review of New Orleans 55th SNM Meeting and Munich EANM Congress (J.Cessna)
 
