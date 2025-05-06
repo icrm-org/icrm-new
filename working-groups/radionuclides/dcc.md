@@ -1,11 +1,11 @@
 ---
-title: Digital Calibration Certificates
+title:  Digital Coincidence Counting
 layout: default
 parent: Radionuclide Metrology
 nav_order: 1
 ---
 
-# Digital Calibration Certificates (DCC)
+# Digital Coincidence Counting (DCC)
 
 {: .lead }
 **J. Keightley**\
