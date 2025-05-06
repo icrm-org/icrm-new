@@ -21,7 +21,7 @@ Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
 Gif-sur-Yvette Cedex, France
 
 {: .subgroups }
-[Digital Calibration Certificates](./dcc.html)\
+[Digital Coincidence Counting](./dcc.html)\
 [Internal Gas Counting](./gas-counting.html)\
 [Large Area Sources](./large-area.html)
 
