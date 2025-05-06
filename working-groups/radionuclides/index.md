@@ -41,3 +41,9 @@ citations in manuscripts. To this end, the RMT-WG liaises with other ICRM WGs,
 the CCRI (II) and its WGs, the BIPM, and other stakeholders.
 
 ![Th-229 graph](./images/th-229.png)
+
+**2024 RMT-WG Meeting: Pedagogical Presentations**
+
+- [Cox-Isham-Smith β-γ coincidence rate correction, Youcef Nedjadi (CHUV)](./files/Cox-Isham-Smith%20b-g%20coincidence%20rate%20correction%20Nedjadi.pdf)
+- [Application of Müller EDT formulae to 4πβ(LS)-γ coincidence counting, Haoran LIU (NIM)](./files/Application%20of%20Muller%20EDT%20formulae%20to%204pbLS-γ%20coincidence%20counting%20at%20NIM%20LIU.pdf)
+- [Overview of the IMPECC system for 4πβ-γ coincidence counting at LNHB, Christophe Bobin (CEA/LNHB)](./files/Overview%20of%20the%20IMPECC%20system%20for%204pb-g%20coincidence%20counting%20at%20LNHB%20Bobin.pdf)
