@@ -26,27 +26,11 @@ and emergency preparedness, nuclear physics research, etc.
 Plenary meetings of the ICRM are held biennially and have developed into
 scientific ICRM conferences, a successful instrument of communication among
 various specialists, truly encouraging international co-operation. The most
-recent in the series of ICRM meetings, the “23rd International Conference on
-Radionuclide Metrology and its Applications, ICRM 2023” was held from 27 to 31
-March 2023 in Bucharest and hosted by the Horia Hulubei National Institute for
-Physics and Nuclear Engineering (IFIN-HH). The proceedings of ICRM 2023 have
-been published, and select articles are available electronically on
-[ScienceDirect](https://doi.org/10.1016/j.apradiso.2024.111385). Additional
-papers have been published in the ICRM Technical Series ([Issue
-3](https://physics.nist.gov/ICRM/ICRM_technicalseries_3.pdf)) on Radionuclide
-Metrology, ISSN 2522–4328.
+recent in the series of ICRM meetings, the "24th International Conference on
+Radionuclide Metrology and its Applications, ICRM 2025" was held from 19 to 22 May, 2025 in Paris, France, and was hosted by 
+the Laboratoire
+National Henri Becquerel (LNE-LNHB).
 
-The next (24th) ICRM conference (ICRM 2025), organized by the Laboratoire
-National Henri Becquerel (LNE-LNHB) in Paris, France, will be held 19–22 May
-2025 in Paris. The conference will include formal oral and poster presentations,
-along with working group meetings to offer the opportunity for scientific
-discussions. The contact persons of the local organizing committee are Mark
-Kellett (<mark.kellett@cea.fr>), Marie-Christine
-Lépy (<marie-christine.lepy@cea.fr>), and
-Sylvain Leblond (<sylvain.leblond@cea.fr>); more
-details are now available on the [ICRM 2025 conference
-website](https://icrm2025.org/) and the dedicated email address for the meeting
-is <ICRM2025@cea.fr>.
 
 Several ICRM working groups held interim meetings, virtually or in person,
 in 2024, which offered ample opportunity to discuss technical details
