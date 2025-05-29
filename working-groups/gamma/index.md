@@ -10,10 +10,9 @@ nav_order: 3
 [Home at LNHB](http://www.lnhb.fr/home/conferences-publications/icrm_gs_wg/){: .btn .btn-green}
 
 {: .coordinator }
-**M.-C. Lépy**\
-<marie-christine.lepy@cea.fr>\
-Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191
-Gif-sur-Yvette Cedex, France
+**S. Collins**\
+<sean.collins@npl.co.uk>\
+National Physical Laboratory (NPL), Hampton Road, Teddington, Middlesex, TW11 0LW, UK
 
 Gamma-ray spectrometry is a widely used analysis technique, with applications in
 a large range of fields and expertise. The ICRM Gamma Spectrometry Working Group
