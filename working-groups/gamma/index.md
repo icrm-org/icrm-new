@@ -7,6 +7,8 @@ nav_order: 3
 
 # Gamma-Ray Spectrometry Working Group
 
+[Home at LNHB](http://www.lnhb.fr/home/conferences-publications/icrm_gs_wg/){: .btn .btn-green}
+
 {: .coordinator }
 **M.-C. Lépy**\
 <marie-christine.lepy@cea.fr>\
