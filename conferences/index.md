@@ -86,4 +86,3 @@ In addition to the biennial meetings, the various Working Groups of the ICRM
 hold interim meetings of particular interest to the specific community.
 
 
- [Working documents for the General Meeting](./Paris2025.zip)
