@@ -14,14 +14,10 @@ has_toc: false
 Physikalisch-Technische Bundesanstalt (PTB), Bundesalle 100, D-38116
 Braunschweig, Germany
 
-{: .coordinator }
-**Begoña Quintana-Arnés**\
-<quintana@usal.es>\
-Catedrática de Física Atómica, Molecular y Nuclear Laboratorio de Radiaciones
-Ionizantes y Datación, Edificio de I+D+i, c) Espejo 2, 37007-Salamanca, Spain
+
 
 {: .subgroups }
-[Decision threshold Quality Assurance](./decision-threshold.html)
+[Mass Spectrometry](./mass-spec.html)
 
 The ICRM working group for Low-Level Measurements Techniques (LLMT) examines
 techniques to enable the detection of ever smaller amounts of radioactivity.
