@@ -10,12 +10,13 @@ Plenary meetings of the ICRM are held biennially and have developed into
 scientific ICRM conferences, a successful instrument of communication among
 various specialists, truly encouraging international co-operation. The most
 recent in the series of ICRM meetings, the "24th International Conference on Radionuclide Metrology and its Applications, ICRM 2025”, was hosted from 19-22 May, 2025 by the LNE-LNHB
-in Paris, France. 
+in Paris, France. Proceedings will be published, and select articles will be available electronically on ScienceDirect. Additional papers will be published in the ICRM Technical Series (Issue 4) on Radionuclide Metrology, ISSN 2522–4328, to be available later in 2025.
 
 The “23rd International Conference
 on Radionuclide Metrology and its Applications, ICRM 2023”, was hosted from
 27–31 March 2023 by the Horia Hulubei National Institute for Physics and Nuclear
-Engineering (IFIN-HH) in Bucharest, Romania. Proceedings have been published as a special issue in Applied Radiation and Isotopes, Vol. 203 (january 2024); additional
+Engineering (IFIN-HH) in Bucharest, Romania. Proceedings have been published as a special issue
+ in [Applied Radiation and Isotopes, Vol. 203](https://doi.org/10.1016/j.apradiso.2024.111385) (January 2024); additional
 papers were published in the Proceedings in the  [ICRM Technical Series on Radionuclide
 Metrology (Issue 3)](../technical-series/icrm-technical-series-03.pdf), ISSN 2522–4328.
 
