@@ -7,8 +7,8 @@ nav_order: 4
 # Constitution And Bylaws Of The International Committee For Radionuclide Metrology   <!-- omit in toc -->
 {: .no_toc }
 
-Adopted at the General Meeting in Bucharest, Romania\
-**31 March 2023**
+Adopted at the General Meeting in Paris, France\
+**23 May 2025**
 
 ## Table of Contents   <!-- omit in toc -->
 {: .no_toc .text-delta }
