@@ -75,7 +75,7 @@ Radioisotope Centre (POLATOM), Andrzeja Sołtana 7
 05-400 Otwock – Świerk
 Polska
 
-**Y.Sato**\
+**Y. Sato**\
 <yss.sato@aist.go.jp>\
 National Metrology Institute of Japan (NMIJ), AIST Tsukuba Central 2, 1-1-1,Umezono,Tsukuba, Ibaraki, 305-8568, Japan
 
