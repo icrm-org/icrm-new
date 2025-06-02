@@ -61,14 +61,12 @@ Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191 Gif-sur-Yve
 <freda@ansto.gov.au>\
 Australia's Nuclear Science and Technology Organisation (ANSTO), New Illawarra Rd, Lucas Heights, Sydney, NSW, 2234, Australia 
 
-## Chair Nominating Committee
+## Nominating Committee
  
-**O. Sima** - outgoing\
+**Chair : O. Sima** - outgoing\
 <octavianalexandru.sima@g.unibuc.ro>\
 University of Bucharest, Bulevardul Regina Elisabeta Nr. 4–12, București 030018,
 Romania
-
-## Nominating Committee-elect
 
 **R. Broda**\
  <ryszard.broda@polatom.pl>\
@@ -77,7 +75,11 @@ Radioisotope Centre (POLATOM), Andrzeja Sołtana 7
 05-400 Otwock – Świerk
 Polska
 
-**M. van Rooy**\
+**Y.Sato**\
+<yss.sato@aist.go.jp>\
+National Metrology Institute of Japan (NMIJ), AIST Tsukuba Central 2, 1-1-1,Umezono,Tsukuba, Ibaraki, 305-8568, Japan
+
+**M. van Rooy** - (to assume office in Fall 2025)\
 <MvRooy@nmisa.org>\
 National Metrology Institute of South Africa (NMISA), 
 Building 6 , CSIR Rosebank Campus 15 Lower Hope Road, Rosebank, 
