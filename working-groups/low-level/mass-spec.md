@@ -5,7 +5,7 @@ parent: Low Level Measurement
 nav_order: 1
 ---
 
-# Decision threshold Quality Assurance
+# Mass Spectrometry
 
 {: .lead }
 **B. Russell**\
