@@ -18,7 +18,7 @@ National Institute of Standards and Technology (NIST), Physical Measurement Labo
 
 **R. Galea**\
 <raphael.galea@nrc-cnrc.gc.ca>\
-National Research Council of Canada (NRC-CNRC), Montreal Road, Ottawa, K1A0R6, Canada
+National Research Council of Canada (NRC-CNRC), 1200 Montreal Road, Ottawa, K1A0R6, Canada
 
 ## Past President
 
@@ -37,7 +37,7 @@ Physikalisch-Technische Bundesanstalt (PTB), Fachbereich 6.1, Bundesallee 100, D
 
 **R. Galea** - outgoing\
 <Raphael.Galea@nrc-cnrc.gc.ca>\
-National Research Council of Canada (NRC-CNRC), Montreal Road, Ottawa, K1A0R6, Canada
+National Research Council of Canada (NRC-CNRC), 1200 Montreal Road, Ottawa, K1A0R6, Canada
  
 **C. Michotte** - outgoing\
 <cmichott@bipm.org>\
@@ -75,9 +75,9 @@ Radioisotope Centre (POLATOM), Andrzeja Sołtana 7
 05-400 Otwock – Świerk
 Polska
 
-**Y.Sato**\
+**Y. Sato**\
 <yss.sato@aist.go.jp>\
-National Metrology Institute of Japan (NMIJ), AIST Tsukuba Central 2, 1-1-1,Umezono,Tsukuba, Ibaraki, 305-8568, Japan
+National Metrology Institute of Japan (NMIJ), AIST Tsukuba Central 2, 1-1-1, Umezono, Tsukuba, Ibaraki, 305-8568, Japan
 
 **M. van Rooy** - (to assume office in Fall 2025)\
 <MvRooy@nmisa.org>\
