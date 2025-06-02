@@ -5,6 +5,7 @@ parent: Life Sciences
 nav_order: 2
 ---
 
-# Coordinator Annual Reports
+# Coordinator Report
 
-- [Annual report 2023](./lswg-coordinator-report-2023.pdf)
+- [Report 2025](./lswg-coordinator-report-2025.pdf)
+
