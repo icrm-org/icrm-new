@@ -31,6 +31,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      
+      #####ADDED THIS
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with: 
+          python-version: "3.x"
+
+      - name: Install Python deps 
+        run: pip install pyyaml
+
+      - name: Generate calendar HTML
+        run: python scripts/make_calendar.py 
+      ##### END OF ADDITION
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
