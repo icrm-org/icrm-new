@@ -4,8 +4,8 @@ theme: just-the-docs
 color_scheme: icrm
 
 include:
-  - events.yaml
-  - view-yaml.html
+  - calendar/events.yaml
+  - calendar/view-yaml.html
 
 url: https://icrm-org.github.io/icrm-new/
 
