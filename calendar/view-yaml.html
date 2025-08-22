@@ -41,96 +41,109 @@
   </style>
 </head>
 <body>
-<script>
-    document.addEventListener('DOMContentLoaded', () => {
-        // Function to load YAML file
-        function loadYamlFile(fileName) {
-            fetch(fileName)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`Failed to load ${fileName}: ${response.status} ${response.statusText}`);
-                    }
-                    return response.text();
-                })
-                .then(yamlStr => {
-                    processYamlContent(yamlStr);
-                })
-                .catch(error => {
-                    console.error('Error loading or parsing YAML file:', error);
-                    alert('Error loading or parsing YAML file: ' + error.message);
-                });
-        }
-
-        // Function to process YAML content
-        function processYamlContent(yamlStr) {
-            try {
-                const documents = jsyaml.loadAll(yamlStr);
-                const dataDoc = documents[documents.length - 1];
-
-                if (!Array.isArray(dataDoc) || dataDoc.length === 0) {
-                    throw new Error("Invalid data format in YAML. Expected an array of objects.");
-                }
-
-                // Filter out past events using end-date
-                const today = new Date();
-                today.setHours(0,0,0,0); // normalize to midnight
-                const filteredData = dataDoc.filter(event => {
-                    if (!event["end-date"]) return true;
-                    const eventEnd = new Date(event["end-date"]);
-                    return eventEnd >= today;
-                });
-
-                if (filteredData.length === 0) {
-                    alert("No upcoming events found.");
-                }
-
-                const dataArray = filteredData.map(obj => Object.values(obj));
-                const headers = Object.keys(filteredData[0]).map(key => ({
-                    title: key.charAt(0).toUpperCase() + key.slice(1)
-                }));
-
-                if ($.fn.DataTable.isDataTable('#myTable')) {
-                    $('#myTable').DataTable().destroy();
-                    $('#myTable').empty();
-                }
-
-                $('#myTable').DataTable({
-                    data: dataArray,
-                    responsive: true,
-                    columns: headers,
-                    dom: 'l<"float-right"B><"clearfix">frtip',
-                    pageLength: -1,
-                    lengthMenu: [[10, 25, 50, 100, -1], [10, 25, 50, 100, "All"]],
-                    colReorder: true,
-                    buttons: [
-                        {
-                            extend: 'csv',
-                            text: 'Export to .csv ...',
-                            className: 'csv-button',
-                            exportOptions: {
-                                columns: ':visible'
-                            }
-                        },
-                        {
-                            extend: 'excel',
-                            text: 'Export to .xlsx ...',
-                            className: 'excel-button',
-                        },
-                    ],
-                });
-            } catch (error) {
-                console.error('Error processing YAML:', error);
-                alert('Error processing YAML: ' + error.message);
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Function to load YAML file
+            function loadYamlFile(fileName) {
+                fetch(fileName)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Failed to load ${fileName}: ${response.status} ${response.statusText}`);
+                        }
+                        return response.text();
+                    })
+                    .then(yamlStr => {
+                        processYamlContent(yamlStr);
+                    })
+                    .catch(error => {
+                        console.error('Error loading or parsing YAML file:', error);
+                        alert('Error loading or parsing YAML file: ' + error.message);
+                    });
             }
-        }
 
-        // Load events.yaml directly on page load
-        loadYamlFile("events.yaml");
-    });
-</script>
+            // Function to process YAML content
+            function processYamlContent(yamlStr) {
+                try {
+                    const documents = jsyaml.loadAll(yamlStr);
+                    const dataDoc = documents[documents.length - 1];
+
+                    if (!Array.isArray(dataDoc) || dataDoc.length === 0) {
+                        throw new Error("Invalid data format in YAML. Expected an array of objects.");
+                    }
+
+                    // Filter out past events using end-date
+                    const today = new Date();
+                    today.setHours(0,0,0,0); // normalize
+                    const filteredData = dataDoc.filter(event => {
+                        if (!event["end-date"]) return true;
+                        const eventEnd = new Date(event["end-date"]);
+                        return eventEnd >= today;
+                    });
+
+                    if (filteredData.length === 0) {
+                        alert("No upcoming events found.");
+                    }
+
+                    // Build data array: embed link in title, remove url field
+                    const dataArray = filteredData.map(obj => {
+                        const row = { ...obj };
+                        if (row.url && row.title) {
+                            row.title = `<a href="${row.url}" target="_blank">${row.title}</a>`;
+                        }
+                        delete row.url; // don’t show URL column
+                        return Object.values(row);
+                    });
+
+                    // Build headers (exclude 'url')
+                    const headers = Object.keys(filteredData[0])
+                        .filter(key => key !== "url")
+                        .map(key => ({
+                            title: key.charAt(0).toUpperCase() + key.slice(1)
+                        }));
+
+                    if ($.fn.DataTable.isDataTable('#myTable')) {
+                        $('#myTable').DataTable().destroy();
+                        $('#myTable').empty();
+                    }
+
+                    $('#myTable').DataTable({
+                        data: dataArray,
+                        responsive: true,
+                        columns: headers,
+                        dom: 'l<"float-right"B><"clearfix">frtip',
+                        pageLength: -1,
+                        lengthMenu: [[10, 25, 50, 100, -1], [10, 25, 50, 100, "All"]],
+                        colReorder: true,
+                        buttons: [
+                            {
+                                extend: 'csv',
+                                text: 'Export to .csv ...',
+                                className: 'csv-button',
+                                exportOptions: {
+                                    columns: ':visible'
+                                }
+                            },
+                            {
+                                extend: 'excel',
+                                text: 'Export to .xlsx ...',
+                                className: 'excel-button',
+                            },
+                        ],
+                    });
+                } catch (error) {
+                    console.error('Error processing YAML:', error);
+                    alert('Error processing YAML: ' + error.message);
+                }
+            }
+
+            // Load events.yaml directly on page load
+            loadYamlFile("events.yaml");
+        });
+    </script>
 
     <div style="width: 95%; margin: 0 auto; margin-top:40px">
         <h1 id="page-title">Radionuclide Metrology Calendar</h1>
+        <p><a href="events.yaml" download>📄 Download the events.yaml file</a></p>
         <table id="myTable" class="display" style="width:100%"></table>
     </div>
 </body>
