@@ -27,8 +27,6 @@ National Institute of Standards and Technology (NIST), Physical Measurement Labo
 <karsten.kossert@ptb.de>\
 Physikalisch-Technische Bundesanstalt (PTB), Fachbereich 6.1, Bundesallee 100, D-38116 Braunschweig, Germany
 
-## Vice-Presidents-elect
-
 **S. Bell**\
 <steven.bell@npl.co.uk>\
 National Physical Laboratory (NPL), Hampton Road, Teddington, Middlesex, TW11 0LW, UK
