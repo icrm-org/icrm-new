@@ -18,36 +18,6 @@
   description: 
   url: 
 
-- start-date: '2025-11-07' 
-  end-date: '2025-11-07'
-  title: 30th meeting of the CCRI
-  description: Consultative Committee on Ionizing Radiation meeting at the BIPM, France.
-  url: 
-
-- start-date: '2025-11-06' 
-  end-date: '2025-11-06'
-  title: "Past and Future of Ionizing Radiation Metrology"
-  description: Hybrid Workshop at the BIPM, France.
-  url: 
-
-- start-date: '2025-11-05' 
-  end-date: '2025-11-05'
-  title: The Future of Radionuclide Metrology and CCRI(II)
-  description: Consultative Committee on Ionizing Radiation (section II) Workshop at the BIPM, France.
-  url: 
-
-- start-date: '2025-11-03' 
-  end-date: '2025-11-03'
-  title: CCRI-KCWG(II) 
-  description: Key Comparison Working group meeting for the Consultative Committee on Ionizing Radiation (section II)  at the BIPM, France.
-  url: 
-
-- start-date: '2025-11-03' 
-  end-date: '2025-11-05'
-  title: CCRI(II)
-  description: Consultative Committee on Ionizing Radiation (section II) meeting at the BIPM, France.
-  url: 
-
 - start-date: '2026-02-15'
   end-date: '2026-02-19'
   title: 12th International Conference on Isotopes (12ICI)
