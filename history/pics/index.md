@@ -7,7 +7,7 @@ nav_order: 1
 
 # Conference Photos (Chronological Order)
 
-Below is a chronological gallery of conference materials (images + PDFs).
+Below is a chronological gallery of conferences.
 
 ---
 
