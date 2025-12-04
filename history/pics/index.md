@@ -7,8 +7,6 @@ nav_order: 1
 
 # Conference Photos (Chronological Order)
 
-Below is a chronological gallery of conferences.
-
 ---
 
 ## 1985 — Grenoble
