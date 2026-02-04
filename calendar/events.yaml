@@ -3,20 +3,26 @@
 - start-date: '2026-06-08' 
   end-date: '2026-06-09'
   title: ICRM Life Sciences Working Group meeting
-  description: LS WG meeting at NRC in Canada June 8-9, 2026. 
+  description: LS WG meeting at NRC in Canada June 8-9, 2026 
   url: 
+
+- start-date: '2026-09-14' 
+  end-date: '2026-09-18'
+  title: 9th International Conference for Radionuclide Metrology – Low-Level Radioactivity Measurements and Techniques (ICRM-LLRMT)
+  description: The ICRM-LLRMT working group will host its conference in Ottawa, Canada, Sept. 14-18, 2026
+  url: "https://icrmllrmt2026.vfairs.com"
 
 - start-date: '2026-06-11'
   end-date: '2026-06-12'
   title: ICRM Liquid Scintillation Counting Working Group meeting
-  description: LSC WG meeting at NRC in Canada June 11-12, 2026. 
+  description: LSC WG meeting at NRC in Canada June 11-12, 2026 
   url: 
 
-- start-date: '2026-02-25' 
-  end-date: '2026-02-27'
+- start-date: '2026-05-04' 
+  end-date: '2026-05-06'
   title: CCRI/AlphaMet Workshop
-  description: 
-  url: 
+  description: Hosted at the BIPM, France
+  url: "https://www.bipm.org/en/committees/cc/ccri/wg/ccri-ws/2026-05-05"
 
 # - start-date: '2025-11-07' 
 #   end-date: '2025-11-07'
