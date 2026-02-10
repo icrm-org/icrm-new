@@ -11,7 +11,7 @@ laboratories engaged in radionuclide metrology are invited to contribute to t
 next issue. The Newsletter contributions are placed online with no alterations
 by the editor. To ensure readability and to avoid unnecessary work by the
 editor, a common simple format is used for all contributions. Contributions may
-be sent by e-mail as an attachment in Miscrosoft Word or as a plain text file.
+be sent by e-mail as an attachment in Microsoft Word or as a plain text file.
 A template is available upon request from the Editor.
 
 [Newsletter at LNHB](http://www.lnhb.fr/conferences-publications/icrm-newsletter/){: .btn .btn-green}
