@@ -6,11 +6,11 @@
   description: LS WG meeting at NRC in Canada June 8-9, 2026 
   url: 
 
-# - start-date: '2026-09-14' 
-#  end-date: '2026-09-18'
-#  title: 9th International Conference for Radionuclide Metrology – Low-Level Radioactivity Measurements and Techniques (ICRM-LLRMT)
-#  description: The ICRM-LLRMT working group will host its conference in Ottawa, Canada, Sept. 14-18, 2026
-#  url: "https://icrmllrmt2026.vfairs.com"
+- start-date: '2026-09-14' 
+  end-date: '2026-09-18'
+  title: 9th International Conference for Radionuclide Metrology – Low-Level Radioactivity Measurements and Techniques (ICRM-LLRMT)
+  description: The ICRM-LLRMT working group will host its conference in Ottawa, Canada, Sept. 14-18, 2026
+  url: "https://icrmllrmt2026.vfairs.com"
 
 - start-date: '2026-06-11'
   end-date: '2026-06-12'
@@ -54,10 +54,10 @@
 #   description: Consultative Committee on Ionizing Radiation (section II) meeting at the BIPM, France.
 #   url: 
 
-- start-date: '2026-02-15'
-  end-date: '2026-02-19'
-  title: 12th International Conference on Isotopes (12ICI)
-  description: 12ICI organized by the World Council on Isotopes takes place in Florence, Italy
-  url: "https://agenda.infn.it/event/41820/overview"
+# - start-date: '2026-02-15'
+#  end-date: '2026-02-19'
+#  title: 12th International Conference on Isotopes (12ICI)
+#  description: 12ICI organized by the World Council on Isotopes takes place in Florence, Italy
+#  url: "https://agenda.infn.it/event/41820/overview"
 
   #The END
