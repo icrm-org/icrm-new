@@ -18,11 +18,27 @@
   description: LSC WG meeting at NRC in Canada June 11-12, 2026 
   url: 
 
-- start-date: '2026-05-04' 
-  end-date: '2026-05-06'
+- start-date: '2026-05-05' 
+  end-date: '2026-05-07'
   title: CCRI/AlphaMet Workshop
   description: Hosted at the BIPM, France
   url: "https://www.bipm.org/en/committees/cc/ccri/wg/ccri-ws/2026-05-05"
+
+- start-date: '2026-10-14' 
+  end-date: '2026-10-15'
+  title: ICRM Gamma Spectroscopy Working Group meeting
+  description: Hosted at the NPL, UK
+  url: "https://www.eventbrite.com/e/icrm-rmt-wg-and-gs-wg-meetings-tickets-1982671005349?aff=oddtdtcreator"
+
+- start-date: '2026-10-12' 
+  end-date: '2026-10-13'
+  title: ICRM Radionuclide Metrology Techniques Working Group meeting
+  description: Hosted at the NPL, UK
+  url: "https://www.eventbrite.com/e/icrm-rmt-wg-and-gs-wg-meetings-tickets-1982671005349?aff=oddtdtcreator"
+
+
+
+
 
 # - start-date: '2025-11-07' 
 #   end-date: '2025-11-07'
