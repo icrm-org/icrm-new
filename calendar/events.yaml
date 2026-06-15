@@ -1,10 +1,10 @@
  # List of events (add more months/events as needed)
    
-- start-date: '2026-06-08' 
-  end-date: '2026-06-09'
-  title: ICRM Life Sciences Working Group meeting
-  description: LS WG meeting at NRC in Canada June 8-9, 2026 
-  url: 
+# - start-date: '2026-06-08' 
+#   end-date: '2026-06-09'
+#   title: ICRM Life Sciences Working Group meeting
+#   description: LS WG meeting at NRC in Canada June 8-9, 2026 
+#   url: 
 
 - start-date: '2026-09-14' 
   end-date: '2026-09-18'
@@ -12,11 +12,11 @@
   description: The ICRM-LLRMT working group will host its conference in Ottawa, Canada, Sept. 14-18, 2026
   url: "https://icrmllrmt2026.vfairs.com"
 
-- start-date: '2026-06-11'
-  end-date: '2026-06-12'
-  title: ICRM Liquid Scintillation Counting Working Group meeting
-  description: LSC WG meeting at NRC in Canada June 11-12, 2026 
-  url: 
+# - start-date: '2026-06-11'
+#   end-date: '2026-06-12'
+#   title: ICRM Liquid Scintillation Counting Working Group meeting
+#   description: LSC WG meeting at NRC in Canada June 11-12, 2026 
+#   url: 
 
 # - start-date: '2026-05-05' 
 #   end-date: '2026-05-07'
