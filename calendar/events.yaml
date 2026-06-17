@@ -1,5 +1,11 @@
  # List of events (add more months/events as needed)
-   
+
+- start-date: '2027-05-17'
+  end-date: '2027-05-21'
+  title: ICRM 2027 25th International Conference on Radionuclide Metrology and its applications
+  description: Rio de Janeiro, Brazil
+  url: 
+
 # - start-date: '2026-06-08' 
 #   end-date: '2026-06-09'
 #   title: ICRM Life Sciences Working Group meeting
@@ -45,7 +51,7 @@
 - start-date: '2026-07-09'
   end-date: '2026-07-11'
   title: Developments In Noble Gas Understanding and Expertise (DINGUE IX)
-  description: Hosted at the Lalonde AMS Lab
+  description: Hosted at the Lalonde AMS Lab, Ottawa, Canada. Registration closes June 21, 2026
   url: "https://sites.google.com/view/dingue-ix/home"
 
 
