@@ -1,5 +1,11 @@
  # List of events (add more months/events as needed)
 
+- start-date: '2029-03'
+  end-date: '2029-03'
+  title: 13th International Conference on Isotopes (ICI13)
+  description: BEXCO, Busan, Republic of Korea
+  url:
+
 - start-date: '2027-05-17'
   end-date: '2027-05-21'
   title: 25th International Conference on Radionuclide Metrology and its applications (ICRM 2027)
