@@ -50,11 +50,11 @@ The ICRM Life Sciences Working Group (LS-WG) meeting
 on 8–9 June 2026 was hosted by the National Research Council of Canada,
 in Ottawa, Canada. The Liquid Scintillation Counting
 Working group (LSC-WG) also met in Ottawa (on 11–12 June). A visit to the
-NRC laboratories took place during both meetings. The latest intermediate working meeting of the ICRM Gamma Spectrometry
-Working Group was held on April 18–19, 2024 and was hosted by the CIEMAT
-(Madrid, Spain). 
+NRC laboratories took place during both meetings. 
 
-The ICRM Radionuclide Metrology Techniques (RMT) Working Group hosted its
+The latest intermediate working meeting of the ICRM Gamma Spectrometry
+Working Group was held on April 18–19, 2024 and was hosted by the CIEMAT
+(Madrid, Spain).The ICRM Radionuclide Metrology Techniques (RMT) Working Group hosted its
 interim meeting online 21 to 23 October 2024 (from 11:00 UTC to 15:00 UTC each
 day), with digital electronics discussed on 21 October, coincidence counting
 on 22 October, and gas counting and cryogenic calorimetry on 23 October.
