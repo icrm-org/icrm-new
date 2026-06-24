@@ -46,17 +46,13 @@ National Laboratory in Assergi (Italy), 2–6 May 2022. The Conference Proceedi
 have been published in a [special issue of *Applied Radiation and Isotopes*](https://www.sciencedirect.com/journal/applied-radiation-and-isotopes/vol/194/suppl/C#article-36).
 The next Conference will be organized in 2026.
 
-The ICRM Life Sciences Working Group (LS-WG)
-[meeting](./working-groups/life-sciences/meetings/2024/lswg-announcement-2024.pdf)
-on 8–9 April 2024 was hosted by the National Centre for Nuclear Research,
-Radioisotope Centre POLATOM in Warsaw, Poland. The Liquid Scintillation Counting
-Working group (LSC-WG) also met in Warsaw (on 11–12 April). A visit to the
-POLATOM laboratories took place on 10 April between the two working group
-meetings. The latest intermediate working meeting of the ICRM Gamma Spectrometry
+The ICRM Life Sciences Working Group (LS-WG) meeting
+on 8–9 June 2026 was hosted by the National Research Council of Canada,
+in Ottawa, Canada. The Liquid Scintillation Counting
+Working group (LSC-WG) also met in Ottawa (on 11–12 June). A visit to the
+NRC laboratories took place during both meetings. The latest intermediate working meeting of the ICRM Gamma Spectrometry
 Working Group was held on April 18–19, 2024 and was hosted by the CIEMAT
-(Madrid, Spain). The preliminary
-[agenda](./working-groups/gamma/meeting-april-18-19-2024.pdf)
-is still available.
+(Madrid, Spain). 
 
 The ICRM Radionuclide Metrology Techniques (RMT) Working Group hosted its
 interim meeting online 21 to 23 October 2024 (from 11:00 UTC to 15:00 UTC each
