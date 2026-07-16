@@ -35,6 +35,6 @@ National Laboratory in Assergi (Italy), 2–6 May 2022. The Conference Proceedi
 have been published in a [special issue of Applied Radiation and
 Isotopes](https://www.sciencedirect.com/journal/applied-radiation-and-isotopes/vol/194/suppl/C#article-36).
 
-The next Conference will be organized in 2026.
+The [2026 Conference](https://icrmllrmt2026.vfairs.com) will be held 14-18 September at the André E. Lalonde National Facility for Accelerator Mass Spectrometry located at the University of Ottawa.
 
 ![Iceberg](./images/iceberg.jpg)
