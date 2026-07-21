@@ -54,7 +54,7 @@ Polska
 <yss.sato@aist.go.jp>\
 National Metrology Institute of Japan (NMIJ), AIST Tsukuba Central 2, 1-1-1, Umezono, Tsukuba, Ibaraki, 305-8568, Japan
 
-**M. van Rooy** - (to assume office in Fall 2025)\
+**M. van Rooy**\
 <MvRooy@nmisa.org>\
 National Metrology Institute of South Africa (NMISA), 
 Building 6 , CSIR Rosebank Campus 15 Lower Hope Road, Rosebank, 
