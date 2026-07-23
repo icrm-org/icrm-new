@@ -71,4 +71,4 @@ Isotopes 66, 6–7 (2008) 677–1066.
 In addition to the biennial meetings, the various Working Groups of the ICRM
 hold interim meetings of particular interest to the specific community.
 
-[Paris GM documents and Annexes](ParisGM2025.zip)
+
